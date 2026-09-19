@@ -1,0 +1,1001 @@
+Patient_ID,Visit_Date,Department,Gender,Age,Visit_Type,Doctor_ID,Insurance_Type,Patient_Status,Waiting_Time_Min,Treatment_Duration_Min,Length_of_Stay_Days,Satisfaction_Score
+P00849,2025-01-01,Emergency,Male,27,Outpatient,DR013,Private,Discharged,61.0,59,0,4.6
+P00678,2025-01-01,Orthopedics,Male,28,Outpatient,DR013,Private,Discharged,29.0,42,1,4.9
+P00649,2025-01-01,Pediatrics,Female,49,Inpatient,DR018,Self-Pay,Discharged,39.0,140,2,4.4
+P00756,2025-01-01,Pediatrics,Female,31,Outpatient,DR014,Government,Discharged,20.0,69,0,4.4
+P00992,2025-01-01,Orthopedics,Female,81,Emergency,DR010,Private,Transferred,73.0,94,0,4.5
+P00447,2025-01-01,General Medicine,Female,65,Outpatient,DR006,Private,Discharged,20.0,56,0,5.0
+P00207,2025-01-02,General Medicine,Female,51,Emergency,DR004,Government,Transferred,51.0,123,0,5.0
+P00264,2025-01-02,Cardiology,Male,28,Emergency,DR012,Government,Discharged,72.0,92,0,4.4
+P00064,2025-01-02,General Medicine,Female,44,Outpatient,DR004,Unknown,Discharged,6.0,70,1,4.9
+P00896,2025-01-03,Neurology,Female,21,Inpatient,DR015,Private,Admitted,60.0,81,7,4.6
+P00949,2025-01-04,General Medicine,Female,36,Outpatient,DR009,Government,Discharged,47.0,67,0,4.9
+P00497,2025-01-04,Pediatrics,Male,8,Inpatient,DR005,Private,Discharged,38.0,86,4,4.9
+P00326,2025-01-04,Orthopedics,Female,68,Inpatient,DR010,Private,Discharged,49.0,133,10,4.8
+P00969,2025-01-04,Emergency,Female,72,Outpatient,DR006,Private,Admitted,71.0,30,0,4.5
+P00614,2025-01-05,General Medicine,Male,47,Outpatient,DR012,Private,Discharged,39.0,68,1,4.8
+P00416,2025-01-05,Neurology,Female,13,Outpatient,DR003,Private,Discharged,37.0,61,0,5.0
+P00721,2025-01-05,Cardiology,Female,4,Inpatient,DR007,Private,Discharged,61.0,149,7,4.3
+P00129,2025-01-05,General Medicine,Female,49,Outpatient,DR010,Private,Discharged,45.0,76,0,4.1
+P00843,2025-01-05,Neurology,Female,67,Emergency,DR008,Self-Pay,Admitted,50.0,114,0,4.8
+P00965,2025-01-06,Pediatrics,Male,22,Outpatient,DR001,Private,Discharged,39.0,16,1,4.5
+P00742,2025-01-06,Emergency,Female,77,Emergency,DR020,Private,Discharged,56.0,56,0,2.7
+P00335,2025-01-06,Emergency,Female,42,Outpatient,DR006,Self-Pay,Admitted,52.0,20,0,4.7
+P00935,2025-01-06,Pediatrics,Female,57,Outpatient,DR017,Self-Pay,Discharged,52.0,56,1,4.2
+P00895,2025-01-07,General Medicine,Male,5,Outpatient,DR008,Private,Discharged,34.0,53,0,4.3
+P00606,2025-01-07,Pediatrics,Female,83,Outpatient,DR013,Private,Discharged,79.0,35,0,4.9
+P00829,2025-01-08,General Medicine,Female,37,Outpatient,DR018,Self-Pay,Discharged,38.0,65,0,5.0
+P00688,2025-01-08,Emergency,Male,47,Emergency,DR017,Government,Discharged,91.0,83,0,4.7
+P00876,2025-01-08,Emergency,Male,65,Outpatient,DR003,Self-Pay,Discharged,50.0,42,0,4.1
+P00098,2025-01-09,Neurology,Male,22,Inpatient,DR009,Government,Admitted,79.0,102,7,4.0
+P00270,2025-01-09,Orthopedics,Female,65,Outpatient,DR003,Government,Discharged,61.0,59,1,3.8
+P00602,2025-01-09,Pediatrics,Male,73,Outpatient,DR003,Self-Pay,Discharged,45.0,22,1,4.8
+P00715,2025-01-10,Neurology,Female,29,Outpatient,DR013,Self-Pay,Discharged,46.0,16,0,4.6
+P00485,2025-01-10,Emergency,Female,17,Emergency,DR002,Unknown,Admitted,87.0,62,0,4.9
+P00852,2025-01-12,Neurology,Female,32,Emergency,DR004,Private,Discharged,76.0,109,0,4.7
+P00682,2025-01-12,Cardiology,Female,58,Emergency,DR008,Private,Discharged,56.0,83,0,4.3
+P00519,2025-01-12,General Medicine,Female,62,Inpatient,DR020,Private,Discharged,40.0,123,8,3.8
+P00917,2025-01-13,Pediatrics,Male,36,Emergency,DR002,Government,Discharged,69.0,81,0,4.6
+P00379,2025-01-13,Emergency,Male,19,Inpatient,DR014,Private,Admitted,85.0,114,10,4.0
+P00152,2025-01-13,General Medicine,Male,39,Outpatient,DR006,Self-Pay,Discharged,25.0,14,1,4.4
+P00555,2025-01-13,General Medicine,Female,50,Inpatient,DR009,Self-Pay,Admitted,57.0,159,10,3.9
+P00051,2025-01-14,Emergency,Female,48,Outpatient,DR020,Private,Admitted,36.0,60,0,3.9
+P00676,2025-01-14,Pediatrics,Male,65,Outpatient,DR006,Self-Pay,Discharged,23.0,21,0,4.9
+P00886,2025-01-14,Emergency,Female,76,Outpatient,DR018,Self-Pay,Discharged,55.0,59,0,5.0
+P00892,2025-01-14,Pediatrics,Female,71,Emergency,DR015,Government,Discharged,56.0,42,1,5.0
+P00135,2025-01-15,Orthopedics,Female,39,Outpatient,DR019,Private,Discharged,9.0,39,1,4.9
+P00093,2025-01-15,Orthopedics,Female,4,Emergency,DR004,Government,Discharged,80.0,76,0,3.6
+P00904,2025-01-15,Cardiology,Female,19,Outpatient,DR017,Government,Discharged,37.0,29,0,4.8
+P00498,2025-01-16,Pediatrics,Male,78,Emergency,DR005,Self-Pay,Discharged,53.0,101,0,4.4
+P00330,2025-01-17,General Medicine,Male,13,Inpatient,DR011,Self-Pay,Discharged,43.0,149,10,4.9
+P00353,2025-01-18,Pediatrics,Male,19,Outpatient,DR019,Private,Admitted,44.0,42,0,3.9
+P00567,2025-01-19,Cardiology,Male,9,Emergency,DR019,Self-Pay,Discharged,73.0,76,0,4.7
+P00637,2025-01-19,Emergency,Female,3,Outpatient,DR006,Government,Discharged,73.0,34,0,3.9
+P00384,2025-01-20,Pediatrics,Female,55,Outpatient,DR019,Private,Discharged,40.0,32,1,4.4
+P00672,2025-01-20,Emergency,Male,29,Outpatient,DR018,Government,Transferred,77.0,109,0,4.9
+P00988,2025-01-20,Orthopedics,Male,65,Emergency,DR004,Self-Pay,Discharged,45.0,77,0,4.7
+P00045,2025-01-21,Emergency,Female,8,Emergency,DR005,Private,Transferred,64.0,56,0,4.6
+P00007,2025-01-21,Cardiology,Female,26,Inpatient,DR016,Private,Discharged,57.0,115,9,4.3
+P00847,2025-01-22,General Medicine,Male,9,Emergency,DR007,Government,Discharged,72.0,70,0,4.7
+P00308,2025-01-22,General Medicine,Female,6,Emergency,DR008,Government,Discharged,81.0,82,0,4.5
+P00026,2025-01-22,General Medicine,Female,38,Inpatient,DR012,Private,Admitted,37.0,106,5,4.8
+P00748,2025-01-23,General Medicine,Male,65,Inpatient,DR004,Private,Discharged,45.0,97,1,4.3
+P00483,2025-01-23,Neurology,Male,66,Emergency,DR004,Self-Pay,Discharged,52.0,77,1,3.9
+P00581,2025-01-25,Neurology,Female,51,Outpatient,DR016,Private,Discharged,52.0,42,1,4.3
+P00919,2025-01-25,Neurology,Female,24,Emergency,DR005,Self-Pay,Discharged,66.0,57,0,4.2
+P00915,2025-01-25,Cardiology,Male,63,Emergency,DR014,Government,Admitted,53.0,88,0,5.0
+P00978,2025-01-26,Orthopedics,Female,9,Outpatient,DR017,Private,Admitted,45.0,63,1,4.9
+P00873,2025-01-26,General Medicine,Female,75,Outpatient,DR016,Government,Discharged,50.0,78,0,4.6
+P00376,2025-01-26,Orthopedics,Female,12,Emergency,DR017,Private,Transferred,73.0,67,0,3.6
+P00317,2025-01-27,Emergency,Female,68,Inpatient,DR020,Self-Pay,Discharged,61.0,126,1,4.8
+P00110,2025-01-28,Emergency,Male,82,Inpatient,DR002,Self-Pay,Admitted,80.0,123,7,4.7
+P00165,2025-01-28,Orthopedics,Male,72,Emergency,DR018,Government,Discharged,40.0,48,0,3.7
+P00907,2025-01-28,Emergency,Female,68,Emergency,DR002,Private,Discharged,98.0,90,1,4.8
+P00697,2025-01-28,Orthopedics,Male,7,Emergency,DR002,Government,Transferred,74.0,55,1,5.0
+P00887,2025-01-28,General Medicine,Female,26,Emergency,DR014,Government,Discharged,100.0,87,1,4.6
+P00150,2025-01-29,Neurology,Female,55,Emergency,DR002,Government,Discharged,79.0,85,1,4.2
+P00615,2025-01-29,Orthopedics,Male,18,Inpatient,DR001,Government,Discharged,54.0,114,8,4.6
+P00802,2025-01-30,Orthopedics,Female,76,Inpatient,DR003,Private,Admitted,71.0,138,3,3.8
+P00960,2025-01-31,Orthopedics,Male,78,Emergency,DR001,Unknown,Admitted,69.0,85,0,4.4
+P00115,2025-02-02,Pediatrics,Female,27,Emergency,DR007,Private,Discharged,74.0,93,1,4.5
+P00508,2025-02-02,Orthopedics,Male,21,Outpatient,DR015,Self-Pay,Admitted,48.0,51,0,4.1
+P00306,2025-02-02,General Medicine,Male,51,Emergency,DR011,Private,Admitted,60.0,80,1,4.5
+P00815,2025-02-03,Emergency,Male,80,Emergency,DR008,Private,Admitted,62.0,83,0,4.2
+P00855,2025-02-03,Emergency,Female,84,Emergency,DR013,Private,Discharged,81.0,98,0,4.5
+P00762,2025-02-03,General Medicine,Female,75,Emergency,DR013,Self-Pay,Discharged,64.0,86,0,4.1
+P00928,2025-02-03,Neurology,Female,53,Inpatient,DR017,Self-Pay,Discharged,55.0,123,6,4.9
+P00124,2025-02-04,Cardiology,Female,84,Inpatient,DR017,Government,Discharged,58.0,93,5,4.1
+P00524,2025-02-04,Pediatrics,Male,52,Outpatient,DR013,Self-Pay,Discharged,52.0,61,0,4.5
+P00059,2025-02-04,Pediatrics,Male,21,Outpatient,DR004,Private,Discharged,38.0,57,1,3.9
+P00327,2025-02-04,Pediatrics,Female,69,Outpatient,DR011,Private,Admitted,42.0,68,0,5.0
+P00709,2025-02-04,Neurology,Female,8,Inpatient,DR002,Government,Discharged,68.0,144,9,4.8
+P00963,2025-02-05,Pediatrics,Male,39,Inpatient,DR018,Private,Admitted,69.0,114,3,4.5
+P00382,2025-02-05,Emergency,Male,52,Outpatient,DR015,Government,Discharged,41.0,71,0,4.2
+P00151,2025-02-05,Emergency,Male,41,Outpatient,DR020,Private,Admitted,30.0,26,0,4.3
+P00546,2025-02-05,Neurology,Female,75,Emergency,DR014,Self-Pay,Discharged,66.0,84,0,4.9
+P00338,2025-02-06,General Medicine,Male,85,Emergency,DR001,Private,Discharged,46.0,56,1,3.9
+P00552,2025-02-06,Orthopedics,Male,18,Emergency,DR014,Private,Discharged,75.0,60,1,3.9
+P00268,2025-02-06,Cardiology,Female,37,Inpatient,DR011,Private,Discharged,60.0,119,6,3.9
+P00311,2025-02-07,Emergency,Female,30,Outpatient,DR010,Private,Admitted,62.0,25,0,4.2
+P00996,2025-02-07,Emergency,Male,70,Emergency,DR001,Private,Discharged,84.0,76,0,4.2
+P00250,2025-02-08,Neurology,Male,44,Outpatient,DR014,Government,Admitted,40.0,43,1,5.0
+P00909,2025-02-08,Emergency,Female,37,Outpatient,DR012,Private,Discharged,82.0,70,1,4.5
+P00477,2025-02-08,General Medicine,Male,45,Outpatient,DR005,Self-Pay,Admitted,56.0,39,0,4.5
+P00373,2025-02-08,Emergency,Female,20,Outpatient,DR014,Private,Admitted,73.0,83,0,4.4
+P00638,2025-02-08,General Medicine,Female,28,Outpatient,DR019,Government,Transferred,50.0,130,0,5.0
+P00766,2025-02-08,Emergency,Male,38,Emergency,DR005,Private,Discharged,49.0,67,0,4.7
+P00586,2025-02-08,Orthopedics,Female,33,Emergency,DR020,Self-Pay,Discharged,55.0,89,0,5.0
+P00961,2025-02-09,Neurology,Female,57,Outpatient,DR004,Self-Pay,Discharged,51.0,10,0,4.2
+P00091,2025-02-10,Emergency,Male,29,Outpatient,DR011,Government,Admitted,54.0,10,0,4.0
+P00109,2025-02-10,Orthopedics,Male,25,Emergency,DR002,Government,Discharged,83.0,81,1,3.6
+P00700,2025-02-10,General Medicine,Female,16,Outpatient,DR019,Private,Admitted,18.0,31,0,4.3
+P00137,2025-02-11,Pediatrics,Male,49,Emergency,DR008,Self-Pay,Discharged,50.0,66,1,5.0
+P00589,2025-02-11,Emergency,Male,10,Emergency,DR018,Self-Pay,Discharged,78.0,10,0,4.4
+P00933,2025-02-11,General Medicine,Male,54,Outpatient,DR002,Private,Discharged,17.0,16,0,4.5
+P00821,2025-02-12,Emergency,Male,65,Outpatient,DR017,Government,Admitted,82.0,53,0,4.3
+P00516,2025-02-12,Emergency,Female,55,Outpatient,DR003,Private,Discharged,78.0,63,0,4.4
+P00167,2025-02-13,Emergency,Male,61,Outpatient,DR009,Government,Discharged,61.0,38,1,5.0
+P00657,2025-02-13,Pediatrics,Female,46,Outpatient,DR016,Government,Discharged,43.0,16,0,4.3
+P00517,2025-02-13,Emergency,Female,23,Inpatient,DR008,Private,Discharged,79.0,149,3,4.2
+P00071,2025-02-13,Emergency,Female,81,Outpatient,DR020,Private,Admitted,55.0,68,0,4.5
+P00161,2025-02-14,General Medicine,Female,1,Emergency,DR005,Private,Transferred,75.0,105,0,4.2
+P00708,2025-02-15,General Medicine,Female,75,Outpatient,DR001,Self-Pay,Discharged,21.0,28,0,5.0
+P00854,2025-02-15,Pediatrics,Female,67,Outpatient,DR003,Private,Discharged,48.0,44,0,3.9
+P00334,2025-02-15,Emergency,Male,3,Inpatient,DR020,Government,Discharged,78.0,93,5,4.3
+P00862,2025-02-16,Emergency,Female,84,Outpatient,DR012,Government,Discharged,69.0,53,1,3.3
+P00471,2025-02-16,Neurology,Female,75,Inpatient,DR003,Private,Discharged,61.0,163,4,4.8
+P00422,2025-02-16,Pediatrics,Female,43,Outpatient,DR011,Private,Discharged,31.0,72,0,4.1
+P00991,2025-02-16,Emergency,Female,36,Emergency,DR018,Government,Discharged,68.0,103,0,4.2
+P00673,2025-02-16,Pediatrics,Male,43,Outpatient,DR009,Self-Pay,Admitted,33.0,10,0,3.8
+P00453,2025-02-17,General Medicine,Male,37,Outpatient,DR018,Self-Pay,Discharged,24.0,55,0,3.8
+P00870,2025-02-17,Orthopedics,Female,20,Outpatient,DR009,Self-Pay,Discharged,14.0,54,0,4.5
+P00116,2025-02-17,Orthopedics,Male,8,Emergency,DR011,Government,Transferred,59.0,45,0,4.3
+P00329,2025-02-18,Cardiology,Male,49,Outpatient,DR002,Government,Transferred,44.0,69,1,4.9
+P00030,2025-02-18,Emergency,Female,40,Outpatient,DR017,Government,Discharged,22.0,28,0,4.8
+P00062,2025-02-19,Cardiology,Male,20,Outpatient,DR018,Private,Discharged,33.0,37,1,4.5
+P00395,2025-02-20,Emergency,Male,53,Inpatient,DR009,Self-Pay,Transferred,74.0,132,7,4.4
+P00805,2025-02-20,Cardiology,Female,19,Outpatient,DR019,Private,Discharged,50.0,22,0,4.8
+P00841,2025-02-20,General Medicine,Female,22,Emergency,DR016,Government,Admitted,60.0,72,0,4.6
+P00314,2025-02-20,Emergency,Female,42,Emergency,DR011,Government,Discharged,96.0,95,0,3.9
+P00037,2025-02-20,Cardiology,Male,14,Emergency,DR012,Government,Admitted,55.0,106,0,4.4
+P00757,2025-02-20,General Medicine,Female,46,Inpatient,DR009,Private,Transferred,53.0,107,8,4.7
+P00198,2025-02-21,Pediatrics,Male,29,Outpatient,DR014,Private,Discharged,42.0,68,0,4.5
+P00143,2025-02-21,Emergency,Male,49,Emergency,DR012,Private,Discharged,87.0,82,0,4.5
+P00576,2025-02-21,Emergency,Male,83,Emergency,DR016,Government,Admitted,85.0,100,0,4.1
+P00749,2025-02-22,Pediatrics,Female,49,Outpatient,DR010,Government,Admitted,39.0,58,0,5.0
+P00413,2025-02-22,Emergency,Female,67,Emergency,DR007,Private,Discharged,77.0,66,0,5.0
+P00216,2025-02-22,Orthopedics,Male,38,Emergency,DR016,Private,Transferred,55.0,91,0,4.1
+P00582,2025-02-22,General Medicine,Male,37,Emergency,DR007,Government,Admitted,73.0,72,0,4.2
+P00817,2025-02-22,Neurology,Female,34,Outpatient,DR016,Private,Admitted,43.0,69,0,4.9
+P00086,2025-02-22,Pediatrics,Male,22,Outpatient,DR004,Government,Discharged,29.0,26,0,4.5
+P00055,2025-02-22,Emergency,Male,11,Emergency,DR005,Government,Discharged,90.0,67,0,4.0
+P00410,2025-02-23,Emergency,Female,19,Emergency,DR011,Private,Discharged,63.0,58,0,4.6
+P00210,2025-02-23,Cardiology,Female,28,Emergency,DR004,Government,Discharged,97.0,66,1,3.8
+P00774,2025-02-23,Orthopedics,Male,38,Inpatient,DR007,Private,Discharged,60.0,114,5,4.6
+P00679,2025-02-23,Cardiology,Female,16,Inpatient,DR011,Private,Discharged,69.0,147,4,4.2
+P00356,2025-02-23,Cardiology,Male,8,Emergency,DR016,Private,Discharged,59.0,47,0,4.3
+P00065,2025-02-23,Emergency,Female,33,Outpatient,DR013,Government,Discharged,71.0,52,1,4.4
+P00278,2025-02-23,Emergency,Female,18,Emergency,DR002,Government,Discharged,70.0,64,0,4.0
+P00039,2025-02-24,Orthopedics,Male,53,Emergency,DR016,Self-Pay,Discharged,74.0,87,0,5.0
+P00884,2025-02-25,Orthopedics,Female,51,Emergency,DR020,Government,Discharged,62.0,75,0,4.5
+P00866,2025-02-25,Orthopedics,Male,65,Emergency,DR001,Government,Discharged,56.0,89,1,3.6
+P00585,2025-02-26,Cardiology,Female,29,Emergency,DR005,Private,Discharged,40.0,75,0,5.0
+P00645,2025-02-27,General Medicine,Male,65,Emergency,DR001,Private,Discharged,62.0,91,0,5.0
+P00357,2025-02-27,General Medicine,Male,28,Emergency,DR013,Private,Discharged,93.0,32,1,4.4
+P00403,2025-02-27,Pediatrics,Female,48,Outpatient,DR001,Private,Discharged,50.0,13,0,5.0
+P00656,2025-02-27,Pediatrics,Male,74,Outpatient,DR018,Government,Discharged,40.0,63,1,4.3
+P00445,2025-02-27,Cardiology,Female,7,Inpatient,DR001,Government,Admitted,63.0,127,2,4.2
+P00437,2025-02-27,Pediatrics,Male,57,Inpatient,DR004,Private,Discharged,38.0,142,8,4.5
+P00031,2025-02-28,Emergency,Male,81,Outpatient,DR004,Self-Pay,Transferred,64.0,40,0,4.4
+P00414,2025-03-01,Neurology,Male,59,Outpatient,DR018,Government,Admitted,69.0,53,0,3.8
+P00263,2025-03-01,Emergency,Female,56,Outpatient,DR020,Private,Discharged,42.0,92,0,5.0
+P00871,2025-03-02,Neurology,Female,10,Inpatient,DR017,Private,Discharged,68.0,92,4,4.7
+P00839,2025-03-02,Emergency,Female,72,Outpatient,DR014,Private,Discharged,58.0,69,0,3.7
+P00162,2025-03-03,Orthopedics,Female,40,Emergency,DR016,Self-Pay,Discharged,69.0,43,1,3.8
+P00562,2025-03-03,General Medicine,Female,29,Emergency,DR018,Government,Admitted,60.0,79,0,4.3
+P00974,2025-03-03,General Medicine,Male,74,Emergency,DR017,Private,Discharged,58.0,57,0,4.3
+P00117,2025-03-03,Neurology,Male,83,Outpatient,DR001,Government,Admitted,45.0,36,1,3.7
+P00102,2025-03-04,Emergency,Male,66,Inpatient,DR019,Self-Pay,Transferred,69.0,135,8,4.5
+P00398,2025-03-04,Emergency,Female,51,Emergency,DR007,Private,Admitted,90.0,91,0,3.2
+P00732,2025-03-04,Orthopedics,Male,17,Emergency,DR013,Private,Discharged,48.0,20,0,4.1
+P00139,2025-03-04,Neurology,Female,62,Inpatient,DR011,Private,Transferred,71.0,119,3,4.4
+P00513,2025-03-06,Emergency,Male,25,Emergency,DR006,Self-Pay,Admitted,81.0,121,1,3.3
+P00095,2025-03-06,Emergency,Male,71,Emergency,DR002,Government,Discharged,112.0,59,1,3.7
+P00724,2025-03-06,Emergency,Female,56,Emergency,DR020,Government,Discharged,105.0,46,0,4.0
+P00159,2025-03-07,Neurology,Female,46,Outpatient,DR010,Private,Discharged,44.0,10,0,5.0
+P00785,2025-03-07,Cardiology,Female,44,Outpatient,DR007,Private,Discharged,57.0,33,0,4.9
+P00921,2025-03-08,Orthopedics,Male,67,Outpatient,DR020,Private,Discharged,53.0,108,0,4.1
+P00299,2025-03-09,Pediatrics,Female,75,Outpatient,DR013,Self-Pay,Transferred,41.0,44,0,4.0
+P00920,2025-03-09,General Medicine,Male,4,Inpatient,DR014,Self-Pay,Discharged,48.0,94,8,4.9
+P00470,2025-03-10,Cardiology,Female,30,Outpatient,DR018,Self-Pay,Discharged,40.0,63,0,4.3
+P00579,2025-03-10,Emergency,Male,56,Emergency,DR006,Self-Pay,Admitted,94.0,67,0,4.3
+P00459,2025-03-10,Pediatrics,Female,1,Emergency,DR012,Self-Pay,Discharged,34.0,75,1,5.0
+P00814,2025-03-10,Emergency,Male,43,Inpatient,DR019,Government,Discharged,91.0,109,9,4.5
+P00628,2025-03-11,General Medicine,Male,54,Emergency,DR016,Self-Pay,Discharged,76.0,105,1,3.9
+P00947,2025-03-11,Emergency,Male,76,Inpatient,DR010,Government,Discharged,66.0,62,7,4.0
+P00765,2025-03-13,Pediatrics,Female,50,Inpatient,DR012,Private,Discharged,38.0,92,2,5.0
+P00005,2025-03-13,Emergency,Male,40,Emergency,DR018,Private,Discharged,101.0,94,1,4.8
+P00859,2025-03-14,General Medicine,Male,17,Outpatient,DR016,Government,Transferred,61.0,87,0,5.0
+P00603,2025-03-15,Emergency,Male,21,Emergency,DR007,Self-Pay,Discharged,67.0,56,1,5.0
+P00282,2025-03-16,General Medicine,Female,49,Outpatient,DR016,Private,Discharged,37.0,51,0,4.4
+P00786,2025-03-16,Cardiology,Female,33,Emergency,DR010,Private,Discharged,64.0,104,0,3.6
+P00536,2025-03-16,Cardiology,Female,4,Inpatient,DR006,Private,Discharged,70.0,105,10,4.6
+P00968,2025-03-16,Pediatrics,Male,21,Emergency,DR004,Private,Discharged,47.0,36,0,4.6
+P00601,2025-03-17,Emergency,Female,25,Emergency,DR019,Private,Discharged,79.0,86,0,4.9
+P00463,2025-03-17,Cardiology,Male,63,Outpatient,DR001,Private,Discharged,29.0,14,0,5.0
+P00571,2025-03-17,General Medicine,Female,68,Inpatient,DR020,Private,Discharged,49.0,112,5,4.1
+P00856,2025-03-19,Emergency,Female,20,Outpatient,DR008,Government,Admitted,74.0,61,0,4.3
+P00755,2025-03-19,Emergency,Male,47,Outpatient,DR016,Government,Discharged,31.0,96,0,4.1
+P00888,2025-03-19,Orthopedics,Male,19,Outpatient,DR018,Private,Discharged,28.0,17,0,4.0
+P00664,2025-03-21,Neurology,Male,10,Emergency,DR013,Self-Pay,Discharged,85.0,58,0,3.8
+P00061,2025-03-22,Emergency,Female,48,Emergency,DR016,Government,Discharged,94.0,41,0,4.4
+P00104,2025-03-22,Neurology,Male,55,Emergency,DR003,Government,Discharged,63.0,122,1,4.1
+P00806,2025-03-22,Cardiology,Female,55,Emergency,DR006,Private,Discharged,67.0,41,0,4.3
+P00204,2025-03-22,Neurology,Female,10,Emergency,DR004,Self-Pay,Admitted,64.0,84,0,4.5
+P00711,2025-03-23,Emergency,Female,45,Emergency,DR012,Private,Discharged,52.0,54,0,4.6
+P00932,2025-03-24,Cardiology,Male,60,Outpatient,DR007,Private,Discharged,34.0,72,0,4.2
+P00752,2025-03-24,Neurology,Female,54,Inpatient,DR009,Government,Discharged,47.0,143,8,4.5
+P00563,2025-03-25,Cardiology,Male,28,Emergency,DR013,Private,Admitted,78.0,97,1,3.5
+P00754,2025-03-26,Neurology,Male,57,Outpatient,DR003,Private,Admitted,39.0,72,0,5.0
+P00466,2025-03-27,General Medicine,Female,34,Emergency,DR002,Private,Discharged,49.0,121,0,4.1
+P00157,2025-03-27,Emergency,Male,11,Emergency,DR013,Unknown,Transferred,66.0,57,0,4.2
+P00912,2025-03-27,General Medicine,Male,24,Emergency,DR018,Government,Admitted,68.0,79,1,4.2
+P00012,2025-03-29,Neurology,Male,3,Outpatient,DR015,Self-Pay,Discharged,46.0,29,0,4.6
+P00454,2025-03-30,General Medicine,Male,13,Emergency,DR005,Private,Admitted,67.0,68,1,4.3
+P00049,2025-03-30,Pediatrics,Female,16,Inpatient,DR015,Self-Pay,Discharged,59.0,93,2,4.3
+P00692,2025-03-31,Emergency,Male,7,Inpatient,DR001,Self-Pay,Discharged,78.0,123,5,3.4
+P00527,2025-03-31,Cardiology,Male,14,Outpatient,DR013,Private,Admitted,36.0,54,0,4.8
+P00993,2025-03-31,Cardiology,Female,66,Emergency,DR007,Private,Discharged,42.0,42,1,4.9
+P00530,2025-03-31,Orthopedics,Female,53,Emergency,DR009,Private,Discharged,79.0,75,0,4.3
+P00634,2025-04-01,Pediatrics,Female,7,Emergency,DR008,Government,Discharged,74.0,75,0,3.8
+P00844,2025-04-02,Cardiology,Male,13,Inpatient,DR019,Government,Discharged,64.0,123,2,4.6
+P00389,2025-04-02,Pediatrics,Female,15,Emergency,DR006,Private,Admitted,65.0,76,0,5.0
+P00436,2025-04-02,Emergency,Female,30,Emergency,DR009,Self-Pay,Admitted,81.0,30,0,4.3
+P00057,2025-04-02,Neurology,Male,50,Outpatient,DR020,Self-Pay,Discharged,66.0,60,0,4.5
+P00529,2025-04-03,Pediatrics,Male,28,Outpatient,DR016,Private,Admitted,42.0,56,1,4.6
+P00837,2025-04-03,Emergency,Female,66,Emergency,DR011,Government,Discharged,58.0,72,0,3.4
+P00973,2025-04-04,Pediatrics,Female,42,Inpatient,DR010,Private,Discharged,42.0,159,4,4.8
+P00472,2025-04-04,Pediatrics,Male,72,Outpatient,DR007,Government,Discharged,54.0,18,0,5.0
+P00954,2025-04-05,Cardiology,Female,50,Emergency,DR014,Government,Discharged,57.0,103,0,4.5
+P00343,2025-04-05,Cardiology,Male,68,Outpatient,DR015,Self-Pay,Discharged,63.0,18,0,4.9
+P00828,2025-04-05,Cardiology,Female,9,Emergency,DR006,Self-Pay,Discharged,83.0,84,0,4.4
+P00520,2025-04-05,Cardiology,Male,74,Outpatient,DR015,Private,Discharged,48.0,47,0,5.0
+P00764,2025-04-05,General Medicine,Female,33,Inpatient,DR013,Private,Admitted,56.0,182,2,3.8
+P00193,2025-04-06,General Medicine,Male,15,Outpatient,DR010,Government,Discharged,18.0,36,0,5.0
+P00494,2025-04-06,Neurology,Male,34,Outpatient,DR017,Self-Pay,Admitted,44.0,68,0,4.4
+P00547,2025-04-06,Emergency,Male,76,Inpatient,DR008,Private,Admitted,73.0,101,2,4.5
+P00144,2025-04-06,Pediatrics,Female,41,Outpatient,DR003,Private,Discharged,26.0,57,0,4.3
+P00450,2025-04-06,Pediatrics,Male,37,Inpatient,DR008,Private,Discharged,33.0,100,1,4.4
+P00234,2025-04-07,Orthopedics,Female,24,Inpatient,DR017,Private,Admitted,44.0,167,9,4.7
+P00321,2025-04-07,General Medicine,Male,77,Emergency,DR019,Private,Admitted,58.0,91,0,5.0
+P00230,2025-04-08,Cardiology,Female,62,Outpatient,DR007,Private,Discharged,5.0,27,1,4.8
+P00793,2025-04-08,Emergency,Female,70,Inpatient,DR005,Self-Pay,Discharged,81.0,163,6,3.4
+P00738,2025-04-08,General Medicine,Female,10,Emergency,DR003,Private,Discharged,57.0,53,0,3.5
+P00336,2025-04-09,General Medicine,Female,32,Outpatient,DR017,Private,Discharged,12.0,44,0,5.0
+P00289,2025-04-09,Emergency,Female,56,Outpatient,DR012,Government,Admitted,77.0,22,1,4.3
+P00344,2025-04-09,Neurology,Male,1,Inpatient,DR007,Self-Pay,Discharged,52.0,114,7,4.4
+P00257,2025-04-09,Orthopedics,Male,32,Emergency,DR006,Private,Transferred,61.0,75,0,5.0
+P00545,2025-04-09,General Medicine,Male,82,Inpatient,DR016,Government,Admitted,50.0,124,9,4.8
+P00272,2025-04-09,Pediatrics,Female,47,Emergency,DR014,Government,Admitted,83.0,58,0,4.6
+P00120,2025-04-09,Cardiology,Male,40,Emergency,DR007,Private,Discharged,55.0,46,0,4.6
+P00740,2025-04-09,General Medicine,Female,83,Outpatient,DR005,Private,Discharged,7.0,71,0,5.0
+P00580,2025-04-09,Orthopedics,Female,76,Outpatient,DR016,Government,Admitted,57.0,44,0,4.8
+P00478,2025-04-10,Emergency,Male,34,Outpatient,DR001,Government,Discharged,86.0,66,0,4.4
+P00488,2025-04-10,Emergency,Male,60,Outpatient,DR006,Self-Pay,Discharged,94.0,13,0,4.5
+P00013,2025-04-10,Orthopedics,Female,42,Outpatient,DR016,Private,Admitted,61.0,51,0,3.8
+P00569,2025-04-10,Neurology,Female,34,Inpatient,DR009,Government,Discharged,37.0,95,4,4.3
+P00510,2025-04-11,Pediatrics,Male,53,Outpatient,DR006,Private,Admitted,29.0,66,0,4.9
+P00202,2025-04-11,Emergency,Female,75,Emergency,DR004,Private,Discharged,92.0,52,0,4.1
+P00934,2025-04-11,General Medicine,Male,70,Outpatient,DR006,Self-Pay,Discharged,55.0,37,0,4.0
+P00126,2025-04-11,Pediatrics,Male,49,Outpatient,DR011,Government,Admitted,47.0,26,0,4.5
+P00411,2025-04-11,General Medicine,Female,63,Emergency,DR004,Private,Admitted,58.0,63,0,4.4
+P00417,2025-04-13,Emergency,Male,47,Inpatient,DR008,Self-Pay,Discharged,93.0,72,3,3.5
+P00787,2025-04-13,Cardiology,Female,81,Emergency,DR006,Self-Pay,Discharged,72.0,51,0,4.3
+P00008,2025-04-13,General Medicine,Female,22,Outpatient,DR006,Private,Admitted,27.0,10,1,4.7
+P00001,2025-04-13,Neurology,Female,30,Emergency,DR011,Self-Pay,Discharged,103.0,59,1,4.2
+P00369,2025-04-14,Cardiology,Male,11,Inpatient,DR015,Government,Discharged,96.0,129,10,4.4
+P00284,2025-04-14,Emergency,Female,64,Outpatient,DR001,Government,Discharged,66.0,42,1,4.6
+P00532,2025-04-15,Emergency,Male,79,Outpatient,DR013,Self-Pay,Admitted,58.0,10,1,4.9
+P00739,2025-04-15,Emergency,Male,45,Inpatient,DR020,Self-Pay,Admitted,60.0,154,2,4.3
+P00066,2025-04-16,Neurology,Female,73,Emergency,DR019,Private,Discharged,63.0,65,0,3.8
+P00429,2025-04-16,Cardiology,Male,80,Emergency,DR005,Private,Discharged,47.0,133,0,4.5
+P00804,2025-04-16,Cardiology,Female,18,Outpatient,DR017,Private,Admitted,64.0,37,0,4.9
+P00868,2025-04-17,Emergency,Female,58,Emergency,DR004,Private,Transferred,79.0,94,0,4.7
+P00004,2025-04-17,Emergency,Female,25,Emergency,DR019,Self-Pay,Discharged,65.0,73,0,4.0
+P00166,2025-04-18,Neurology,Female,72,Outpatient,DR011,Private,Discharged,23.0,80,0,4.7
+P00415,2025-04-18,Neurology,Male,69,Emergency,DR009,Government,Discharged,51.0,92,0,3.2
+P00587,2025-04-19,Emergency,Female,60,Inpatient,DR018,Self-Pay,Discharged,87.0,83,1,4.3
+P00923,2025-04-19,Neurology,Female,57,Outpatient,DR005,Government,Discharged,46.0,43,0,4.7
+P00925,2025-04-21,Emergency,Female,53,Inpatient,DR018,Self-Pay,Admitted,56.0,133,2,4.1
+P00823,2025-04-21,Cardiology,Male,39,Outpatient,DR013,Self-Pay,Discharged,5.0,58,0,5.0
+P00927,2025-04-21,Emergency,Male,69,Inpatient,DR011,Private,Discharged,55.0,90,7,5.0
+P00897,2025-04-21,Cardiology,Female,78,Outpatient,DR003,Government,Discharged,14.0,17,0,5.0
+P00929,2025-04-21,Emergency,Male,62,Inpatient,DR016,Government,Discharged,99.0,54,9,4.7
+P00288,2025-04-22,Orthopedics,Female,48,Emergency,DR012,Private,Discharged,64.0,94,0,4.3
+P00779,2025-04-22,General Medicine,Female,74,Outpatient,DR020,Government,Transferred,35.0,38,0,4.3
+P00948,2025-04-22,General Medicine,Female,38,Outpatient,DR002,Private,Discharged,34.0,63,0,5.0
+P00262,2025-04-22,Neurology,Female,34,Outpatient,DR001,Self-Pay,Discharged,39.0,10,0,5.0
+P00203,2025-04-23,Emergency,Male,77,Outpatient,DR013,Government,Discharged,55.0,54,0,5.0
+P00877,2025-04-23,Emergency,Male,17,Outpatient,DR020,Government,Admitted,35.0,59,0,4.3
+P00201,2025-04-23,Emergency,Male,51,Inpatient,DR006,Government,Admitted,76.0,121,6,3.3
+P00283,2025-04-23,Emergency,Male,38,Outpatient,DR019,Private,Discharged,68.0,27,0,4.0
+P00206,2025-04-23,Pediatrics,Male,82,Outpatient,DR016,Self-Pay,Discharged,59.0,48,0,4.2
+P00989,2025-04-23,Neurology,Male,63,Outpatient,DR003,Self-Pay,Transferred,25.0,18,1,4.6
+P00196,2025-04-23,Emergency,Male,2,Outpatient,DR005,Government,Discharged,67.0,62,1,4.5
+P00535,2025-04-24,General Medicine,Male,63,Inpatient,DR007,Government,Admitted,34.0,78,8,3.8
+P00362,2025-04-24,Pediatrics,Female,64,Outpatient,DR007,Private,Discharged,32.0,44,0,4.5
+P00531,2025-04-25,Pediatrics,Female,24,Emergency,DR014,Private,Admitted,78.0,71,0,3.3
+P00346,2025-04-26,Neurology,Male,24,Emergency,DR007,Government,Discharged,65.0,102,1,4.4
+P00281,2025-04-26,Cardiology,Male,11,Outpatient,DR008,Private,Discharged,64.0,52,0,3.2
+P00178,2025-04-26,General Medicine,Male,49,Outpatient,DR016,Self-Pay,Discharged,52.0,29,0,4.8
+P00654,2025-04-27,General Medicine,Male,47,Emergency,DR010,Government,Discharged,56.0,110,1,5.0
+P00440,2025-04-27,Neurology,Female,19,Inpatient,DR012,Private,Transferred,73.0,119,8,3.9
+P00770,2025-04-28,General Medicine,Female,21,Emergency,DR007,Government,Admitted,75.0,94,1,4.1
+P00983,2025-04-28,Neurology,Male,68,Outpatient,DR017,Private,Transferred,33.0,20,0,4.8
+P00972,2025-04-28,Pediatrics,Female,31,Emergency,DR018,Private,Admitted,42.0,78,1,4.3
+P00452,2025-04-28,General Medicine,Male,15,Emergency,DR005,Private,Discharged,53.0,13,0,4.1
+P00906,2025-04-29,Orthopedics,Female,28,Emergency,DR001,Private,Admitted,54.0,73,0,4.0
+P00722,2025-04-29,Orthopedics,Male,9,Outpatient,DR010,Government,Admitted,21.0,29,0,4.7
+P00279,2025-04-30,Orthopedics,Male,35,Emergency,DR020,Private,Discharged,65.0,65,0,4.6
+P00433,2025-04-30,Emergency,Female,24,Emergency,DR014,Private,Transferred,60.0,65,0,3.9
+P00177,2025-05-01,General Medicine,Female,47,Emergency,DR002,Self-Pay,Discharged,52.0,48,0,4.0
+P00863,2025-05-01,General Medicine,Male,53,Outpatient,DR009,Government,Admitted,7.0,11,0,5.0
+P00592,2025-05-02,Emergency,Male,85,Outpatient,DR013,Private,Transferred,55.0,30,0,4.6
+P00446,2025-05-02,Pediatrics,Female,67,Emergency,DR013,Government,Admitted,50.0,104,1,5.0
+P00689,2025-05-02,Pediatrics,Female,34,Outpatient,DR020,Private,Discharged,57.0,32,1,4.2
+P00009,2025-05-02,Cardiology,Female,48,Outpatient,DR012,Self-Pay,Admitted,34.0,32,1,4.2
+P00840,2025-05-02,Orthopedics,Male,48,Emergency,DR019,Private,Discharged,59.0,82,0,4.7
+P00612,2025-05-02,Pediatrics,Male,28,Inpatient,DR019,Private,Transferred,56.0,114,3,4.7
+P00225,2025-05-03,Orthopedics,Female,65,Emergency,DR012,Private,Transferred,78.0,68,0,3.8
+P00236,2025-05-04,Cardiology,Female,28,Emergency,DR015,Government,Admitted,56.0,85,0,4.3
+P00428,2025-05-04,Orthopedics,Male,21,Inpatient,DR004,Self-Pay,Discharged,64.0,122,3,4.2
+P00400,2025-05-05,Cardiology,Male,4,Outpatient,DR018,Self-Pay,Discharged,48.0,39,0,4.4
+P00644,2025-05-06,General Medicine,Female,54,Outpatient,DR015,Private,Admitted,67.0,21,0,3.6
+P00913,2025-05-06,Neurology,Female,27,Outpatient,DR007,Government,Discharged,22.0,34,0,4.0
+P00451,2025-05-06,General Medicine,Female,1,Emergency,DR019,Private,Discharged,41.0,46,1,4.7
+P00214,2025-05-06,Orthopedics,Male,27,Emergency,DR003,Private,Discharged,102.0,106,1,4.0
+P00639,2025-05-06,Emergency,Female,70,Emergency,DR011,Government,Admitted,44.0,78,1,4.9
+P00819,2025-05-06,Emergency,Female,13,Inpatient,DR019,Self-Pay,Discharged,63.0,123,4,4.6
+P00366,2025-05-07,General Medicine,Male,47,Outpatient,DR013,Government,Admitted,43.0,42,1,3.7
+P00443,2025-05-07,General Medicine,Male,71,Emergency,DR018,Self-Pay,Admitted,63.0,56,0,4.2
+P00883,2025-05-07,Neurology,Female,56,Outpatient,DR017,Self-Pay,Admitted,68.0,27,0,4.3
+P00352,2025-05-08,Orthopedics,Male,24,Outpatient,DR011,Private,Discharged,44.0,24,0,4.3
+P00249,2025-05-08,Pediatrics,Male,28,Inpatient,DR019,Private,Admitted,76.0,102,4,4.6
+P00305,2025-05-08,General Medicine,Male,64,Outpatient,DR013,Government,Discharged,5.0,32,0,5.0
+P00171,2025-05-08,Cardiology,Male,45,Inpatient,DR012,Government,Admitted,35.0,136,5,3.4
+P00253,2025-05-09,Emergency,Female,63,Emergency,DR020,Government,Admitted,63.0,95,0,4.0
+P00100,2025-05-09,Pediatrics,Female,45,Emergency,DR007,Self-Pay,Admitted,72.0,58,1,4.4
+P00444,2025-05-09,Neurology,Female,30,Emergency,DR007,Government,Admitted,59.0,82,0,4.6
+P00208,2025-05-10,Cardiology,Female,73,Outpatient,DR001,Unknown,Discharged,52.0,10,1,4.2
+P00215,2025-05-10,Neurology,Female,2,Emergency,DR013,Private,Discharged,70.0,71,0,4.5
+P00276,2025-05-11,Cardiology,Male,74,Emergency,DR001,Private,Discharged,53.0,104,0,4.5
+P00016,2025-05-11,Pediatrics,Male,28,Outpatient,DR013,Private,Admitted,47.0,76,0,4.7
+P00042,2025-05-11,Cardiology,Male,41,Inpatient,DR007,Government,Discharged,61.0,57,2,4.0
+P00127,2025-05-11,Cardiology,Female,13,Outpatient,DR001,Private,Discharged,18.0,37,0,4.6
+P00626,2025-05-12,Cardiology,Male,38,Inpatient,DR013,Private,Admitted,62.0,104,4,4.1
+P00807,2025-05-13,Neurology,Female,82,Outpatient,DR004,Government,Discharged,35.0,48,0,4.5
+P00745,2025-05-13,Pediatrics,Female,68,Emergency,DR015,Private,Discharged,54.0,130,0,3.9
+P00593,2025-05-13,Neurology,Female,21,Inpatient,DR018,Private,Discharged,64.0,67,7,4.1
+P00850,2025-05-13,Neurology,Male,34,Emergency,DR001,Self-Pay,Admitted,55.0,70,0,3.4
+P00981,2025-05-13,Cardiology,Female,10,Emergency,DR007,Government,Discharged,41.0,66,1,4.4
+P00655,2025-05-14,Orthopedics,Female,53,Outpatient,DR007,Private,Admitted,42.0,22,1,5.0
+P00971,2025-05-14,Cardiology,Female,59,Outpatient,DR002,Private,Discharged,25.0,77,0,4.6
+P00163,2025-05-14,Orthopedics,Female,19,Emergency,DR013,Private,Discharged,50.0,66,1,3.6
+P00111,2025-05-15,Pediatrics,Female,17,Emergency,DR017,Government,Discharged,52.0,72,0,4.2
+P00303,2025-05-15,Pediatrics,Female,27,Emergency,DR020,Private,Transferred,77.0,106,0,3.7
+P00044,2025-05-15,Orthopedics,Female,68,Outpatient,DR020,Private,Admitted,50.0,38,0,4.7
+P00618,2025-05-16,General Medicine,Male,13,Outpatient,DR017,Private,Admitted,21.0,10,0,4.6
+P00693,2025-05-16,Emergency,Male,25,Outpatient,DR004,Self-Pay,Admitted,60.0,46,0,5.0
+P00101,2025-05-16,General Medicine,Male,67,Emergency,DR004,Government,Discharged,45.0,49,0,4.3
+P00957,2025-05-17,Neurology,Female,25,Inpatient,DR007,Private,Admitted,50.0,126,8,4.3
+P00183,2025-05-17,Emergency,Female,66,Outpatient,DR019,Private,Admitted,82.0,33,0,4.9
+P00809,2025-05-18,Neurology,Female,6,Outpatient,DR019,Government,Transferred,48.0,62,0,4.8
+P00103,2025-05-19,Neurology,Male,34,Emergency,DR010,Government,Discharged,70.0,75,0,4.2
+P00998,2025-05-19,Emergency,Female,23,Inpatient,DR014,Self-Pay,Transferred,78.0,145,6,3.3
+P00267,2025-05-20,General Medicine,Male,68,Emergency,DR015,Private,Admitted,50.0,90,0,4.7
+P00990,2025-05-20,General Medicine,Female,51,Outpatient,DR007,Private,Discharged,69.0,28,0,4.3
+P00641,2025-05-21,Cardiology,Female,21,Outpatient,DR013,Private,Discharged,49.0,91,0,4.7
+P00608,2025-05-21,General Medicine,Female,37,Outpatient,DR009,Private,Admitted,52.0,39,0,4.0
+P00994,2025-05-22,Emergency,Female,15,Inpatient,DR008,Government,Discharged,91.0,142,10,4.1
+P00387,2025-05-22,Neurology,Male,62,Outpatient,DR015,Government,Admitted,56.0,42,0,3.5
+P00388,2025-05-23,Emergency,Male,23,Outpatient,DR020,Private,Discharged,53.0,54,0,4.8
+P00677,2025-05-23,Orthopedics,Female,84,Emergency,DR006,Government,Admitted,64.0,74,0,4.4
+P00148,2025-05-23,Pediatrics,Female,59,Outpatient,DR017,Government,Discharged,24.0,49,0,4.4
+P00681,2025-05-24,Emergency,Male,81,Emergency,DR002,Private,Discharged,62.0,58,0,4.7
+P00426,2025-05-24,Neurology,Female,42,Emergency,DR003,Government,Discharged,60.0,75,1,4.8
+P00578,2025-05-24,Pediatrics,Female,70,Emergency,DR008,Government,Admitted,78.0,45,0,4.4
+P00584,2025-05-24,Emergency,Female,58,Inpatient,DR013,Government,Transferred,63.0,100,6,4.3
+P00260,2025-05-24,General Medicine,Male,24,Emergency,DR005,Private,Discharged,91.0,51,0,3.2
+P00465,2025-05-24,Emergency,Female,9,Outpatient,DR015,Government,Discharged,35.0,98,0,4.0
+P00233,2025-05-24,Pediatrics,Male,23,Emergency,DR012,Government,Discharged,32.0,108,1,5.0
+P00432,2025-05-25,Orthopedics,Female,41,Outpatient,DR016,Private,Discharged,25.0,24,0,4.6
+P00703,2025-05-25,Emergency,Male,77,Outpatient,DR019,Private,Transferred,66.0,54,1,4.5
+P00753,2025-05-25,Pediatrics,Male,60,Emergency,DR008,Private,Discharged,83.0,110,1,3.8
+P00916,2025-05-25,General Medicine,Male,61,Inpatient,DR008,Private,Admitted,54.0,95,5,4.3
+P00622,2025-05-25,Emergency,Male,2,Outpatient,DR003,Private,Discharged,67.0,32,1,4.1
+P00599,2025-05-26,Neurology,Female,68,Emergency,DR015,Private,Discharged,90.0,78,0,3.6
+P00924,2025-05-26,Pediatrics,Female,49,Outpatient,DR016,Private,Admitted,25.0,76,0,4.8
+P00725,2025-05-26,Pediatrics,Female,84,Outpatient,DR018,Private,Discharged,27.0,55,0,4.2
+P00431,2025-05-27,General Medicine,Female,66,Emergency,DR007,Private,Transferred,62.0,74,0,3.6
+P00273,2025-05-27,General Medicine,Male,20,Outpatient,DR003,Private,Discharged,37.0,11,1,4.9
+P00493,2025-05-27,Cardiology,Female,31,Outpatient,DR019,Government,Transferred,11.0,39,0,4.2
+P00244,2025-05-27,General Medicine,Female,30,Outpatient,DR015,Self-Pay,Discharged,30.0,69,0,4.3
+P00671,2025-05-27,Pediatrics,Male,24,Outpatient,DR002,Private,Discharged,21.0,47,0,4.3
+P00325,2025-05-27,Pediatrics,Male,22,Inpatient,DR011,Private,Discharged,48.0,175,4,4.1
+P00245,2025-05-28,Emergency,Female,60,Emergency,DR011,Government,Discharged,81.0,65,1,3.2
+P00241,2025-05-28,Cardiology,Female,45,Emergency,DR020,Private,Admitted,56.0,63,0,4.7
+P00646,2025-05-28,Orthopedics,Male,21,Emergency,DR007,Private,Discharged,65.0,63,0,4.0
+P00663,2025-05-29,Neurology,Female,14,Outpatient,DR016,Private,Discharged,41.0,42,1,5.0
+P00401,2025-05-30,Emergency,Female,7,Inpatient,DR006,Private,Discharged,73.0,70,7,4.4
+P00944,2025-05-30,Neurology,Male,51,Outpatient,DR008,Government,Discharged,37.0,37,1,5.0
+P00017,2025-05-30,General Medicine,Female,84,Outpatient,DR004,Private,Discharged,55.0,57,0,4.7
+P00255,2025-05-31,Orthopedics,Female,75,Emergency,DR005,Government,Discharged,70.0,29,0,4.7
+P00365,2025-05-31,Orthopedics,Male,45,Outpatient,DR009,Private,Discharged,25.0,93,0,4.7
+P00549,2025-05-31,Pediatrics,Male,79,Inpatient,DR018,Private,Discharged,60.0,135,8,4.1
+P00825,2025-05-31,Orthopedics,Female,59,Emergency,DR010,Private,Discharged,80.0,60,0,3.6
+P00583,2025-05-31,Neurology,Female,17,Emergency,DR013,Government,Discharged,78.0,67,0,4.3
+P00548,2025-06-01,Emergency,Male,49,Outpatient,DR017,Self-Pay,Discharged,49.0,61,1,4.3
+P00190,2025-06-01,Emergency,Female,40,Outpatient,DR005,Government,Discharged,40.0,55,1,4.3
+P00505,2025-06-01,Orthopedics,Male,30,Outpatient,DR003,Private,Admitted,57.0,60,0,4.8
+P00015,2025-06-01,Cardiology,Male,73,Outpatient,DR012,Private,Transferred,17.0,29,1,4.8
+P00955,2025-06-01,Emergency,Male,30,Emergency,DR001,Government,Admitted,50.0,62,0,4.9
+P00277,2025-06-01,Neurology,Female,60,Outpatient,DR017,Private,Discharged,50.0,67,0,4.6
+P00290,2025-06-02,General Medicine,Female,76,Outpatient,DR020,Self-Pay,Discharged,56.0,32,0,4.2
+P00396,2025-06-02,Emergency,Female,78,Outpatient,DR010,Self-Pay,Discharged,59.0,43,0,3.1
+P00767,2025-06-03,Pediatrics,Female,27,Outpatient,DR010,Self-Pay,Discharged,57.0,53,0,4.2
+P00891,2025-06-03,General Medicine,Male,47,Outpatient,DR006,Government,Discharged,38.0,72,0,5.0
+P00464,2025-06-03,General Medicine,Female,23,Outpatient,DR011,Private,Discharged,27.0,10,0,5.0
+P00367,2025-06-04,Emergency,Female,12,Outpatient,DR018,Self-Pay,Discharged,79.0,10,0,3.9
+P00836,2025-06-04,Emergency,Female,42,Outpatient,DR003,Private,Transferred,35.0,55,1,4.5
+P00687,2025-06-05,General Medicine,Male,59,Outpatient,DR018,Government,Discharged,51.0,47,0,4.2
+P00092,2025-06-06,Neurology,Male,51,Emergency,DR005,Government,Transferred,47.0,37,1,4.4
+P00310,2025-06-07,Orthopedics,Male,15,Outpatient,DR008,Private,Admitted,30.0,59,1,4.5
+P00430,2025-06-07,Cardiology,Female,76,Outpatient,DR017,Private,Discharged,51.0,40,0,4.8
+P00333,2025-06-07,Emergency,Male,51,Emergency,DR014,Private,Admitted,75.0,66,0,4.6
+P00659,2025-06-09,Cardiology,Male,37,Outpatient,DR006,Government,Discharged,46.0,55,1,4.9
+P00192,2025-06-09,Pediatrics,Male,76,Outpatient,DR007,Government,Discharged,20.0,60,0,5.0
+P00269,2025-06-09,Neurology,Female,56,Emergency,DR016,Government,Discharged,66.0,57,0,4.2
+P00838,2025-06-09,General Medicine,Male,55,Outpatient,DR006,Private,Discharged,10.0,34,0,4.1
+P00503,2025-06-09,Emergency,Female,65,Emergency,DR007,Government,Admitted,66.0,106,0,3.9
+P00153,2025-06-09,Emergency,Male,13,Outpatient,DR010,Private,Discharged,58.0,52,0,4.0
+P00219,2025-06-09,General Medicine,Male,40,Outpatient,DR008,Government,Discharged,33.0,90,0,3.9
+P00349,2025-06-10,Pediatrics,Male,51,Outpatient,DR006,Self-Pay,Transferred,37.0,70,1,4.6
+P00298,2025-06-10,Emergency,Male,67,Emergency,DR006,Government,Transferred,71.0,97,0,3.9
+P00280,2025-06-10,Neurology,Male,43,Inpatient,DR006,Private,Admitted,70.0,145,2,4.3
+P00024,2025-06-10,General Medicine,Male,47,Emergency,DR014,Government,Discharged,50.0,71,0,4.5
+P00769,2025-06-11,Pediatrics,Male,61,Emergency,DR020,Private,Transferred,63.0,73,0,3.5
+P00072,2025-06-11,General Medicine,Male,65,Outpatient,DR020,Private,Admitted,20.0,32,1,5.0
+P00295,2025-06-12,Cardiology,Female,69,Outpatient,DR004,Self-Pay,Discharged,55.0,41,1,4.6
+P00594,2025-06-12,General Medicine,Male,13,Emergency,DR015,Self-Pay,Discharged,53.0,73,0,4.8
+P00507,2025-06-12,General Medicine,Male,13,Emergency,DR010,Government,Discharged,65.0,84,0,3.6
+P00105,2025-06-12,Orthopedics,Male,1,Outpatient,DR019,Private,Discharged,12.0,63,0,4.7
+P00540,2025-06-13,Emergency,Male,82,Inpatient,DR005,Self-Pay,Discharged,65.0,98,5,3.9
+P00691,2025-06-13,Emergency,Female,6,Outpatient,DR003,Private,Admitted,47.0,48,0,4.6
+P00669,2025-06-13,Emergency,Female,12,Emergency,DR017,Self-Pay,Discharged,67.0,63,0,5.0
+P00750,2025-06-14,General Medicine,Female,47,Emergency,DR013,Private,Discharged,46.0,97,0,4.2
+P00616,2025-06-14,Neurology,Female,78,Inpatient,DR019,Private,Admitted,53.0,94,7,4.3
+P00185,2025-06-14,General Medicine,Male,33,Outpatient,DR002,Private,Transferred,27.0,44,0,4.9
+P00800,2025-06-15,Pediatrics,Male,59,Emergency,DR015,Self-Pay,Admitted,38.0,128,0,5.0
+P00047,2025-06-16,Cardiology,Male,41,Outpatient,DR015,Private,Discharged,35.0,13,0,5.0
+P00633,2025-06-16,Emergency,Male,8,Inpatient,DR012,Government,Transferred,91.0,126,9,3.4
+P00609,2025-06-17,Cardiology,Female,42,Outpatient,DR001,Private,Discharged,52.0,25,0,4.6
+P00514,2025-06-17,General Medicine,Male,31,Outpatient,DR013,Private,Discharged,53.0,46,1,3.5
+P00297,2025-06-18,Pediatrics,Female,59,Emergency,DR019,Private,Admitted,74.0,57,1,3.7
+P00407,2025-06-19,Cardiology,Female,81,Inpatient,DR004,Private,Discharged,34.0,150,10,4.7
+P00160,2025-06-19,Emergency,Female,45,Emergency,DR015,Government,Discharged,69.0,66,0,4.6
+P00845,2025-06-19,Pediatrics,Female,45,Inpatient,DR020,Self-Pay,Discharged,15.0,89,1,4.9
+P00032,2025-06-19,General Medicine,Female,30,Inpatient,DR008,Self-Pay,Discharged,58.0,107,8,4.0
+P00374,2025-06-19,Emergency,Female,41,Outpatient,DR014,Self-Pay,Discharged,52.0,10,0,4.0
+P00610,2025-06-19,General Medicine,Female,17,Outpatient,DR019,Government,Admitted,18.0,72,0,5.0
+P00149,2025-06-20,Orthopedics,Male,39,Outpatient,DR016,Private,Discharged,43.0,33,0,4.3
+P00189,2025-06-21,Emergency,Male,28,Inpatient,DR012,Government,Discharged,92.0,90,7,3.5
+P00217,2025-06-21,Cardiology,Male,3,Emergency,DR005,Private,Discharged,75.0,62,1,4.2
+P00121,2025-06-21,General Medicine,Male,14,Emergency,DR015,Private,Discharged,65.0,75,1,4.7
+P00331,2025-06-21,Emergency,Female,34,Inpatient,DR019,Private,Discharged,81.0,158,4,4.6
+P00658,2025-06-22,Orthopedics,Male,13,Emergency,DR020,Government,Discharged,67.0,80,0,4.4
+P00383,2025-06-22,Orthopedics,Female,70,Inpatient,DR014,Private,Transferred,49.0,146,7,4.6
+P00758,2025-06-22,General Medicine,Female,26,Emergency,DR011,Self-Pay,Admitted,75.0,106,0,4.3
+P00640,2025-06-22,Emergency,Male,44,Outpatient,DR011,Self-Pay,Discharged,52.0,45,0,3.7
+P00979,2025-06-22,Emergency,Male,81,Outpatient,DR005,Private,Admitted,63.0,23,1,4.5
+P00660,2025-06-22,Neurology,Male,24,Inpatient,DR009,Government,Admitted,76.0,109,9,5.0
+P00607,2025-06-23,General Medicine,Female,12,Outpatient,DR012,Private,Discharged,36.0,32,0,4.6
+P00360,2025-06-23,Neurology,Male,36,Emergency,DR011,Private,Discharged,38.0,64,0,4.6
+P00036,2025-06-24,Pediatrics,Male,52,Outpatient,DR015,Private,Discharged,46.0,88,0,4.1
+P00307,2025-06-25,General Medicine,Male,50,Outpatient,DR019,Private,Discharged,58.0,10,0,4.3
+P00372,2025-06-25,Emergency,Female,56,Outpatient,DR004,Private,Discharged,41.0,25,0,4.6
+P00728,2025-06-26,Pediatrics,Male,15,Outpatient,DR015,Private,Discharged,52.0,60,0,4.5
+P00737,2025-06-26,Cardiology,Female,25,Emergency,DR015,Private,Admitted,65.0,88,0,4.4
+P00544,2025-06-26,General Medicine,Female,34,Inpatient,DR011,Government,Admitted,33.0,160,4,4.8
+P00568,2025-06-26,Orthopedics,Female,27,Emergency,DR015,Government,Discharged,58.0,61,0,4.2
+P00506,2025-06-27,General Medicine,Female,53,Outpatient,DR019,Government,Admitted,74.0,75,0,4.0
+P00696,2025-06-27,General Medicine,Male,58,Emergency,DR011,Private,Admitted,57.0,82,0,4.1
+P00138,2025-06-28,Cardiology,Male,64,Outpatient,DR018,Private,Discharged,56.0,82,1,3.8
+P00509,2025-06-28,Cardiology,Male,19,Outpatient,DR003,Private,Transferred,31.0,55,0,5.0
+P00880,2025-06-29,Neurology,Male,68,Emergency,DR020,Self-Pay,Discharged,71.0,96,1,4.1
+P00490,2025-06-29,General Medicine,Female,66,Outpatient,DR016,Private,Discharged,34.0,52,1,4.8
+P00936,2025-06-29,Emergency,Male,10,Outpatient,DR007,Private,Discharged,65.0,50,1,4.5
+P00195,2025-06-29,General Medicine,Male,39,Outpatient,DR014,Private,Admitted,58.0,52,0,4.0
+P00406,2025-06-29,Emergency,Female,45,Emergency,DR002,Self-Pay,Discharged,100.0,53,0,4.8
+P00342,2025-06-30,General Medicine,Female,11,Inpatient,DR020,Private,Discharged,22.0,89,2,5.0
+P00588,2025-06-30,Cardiology,Male,55,Emergency,DR015,Private,Admitted,59.0,107,1,4.0
+P00632,2025-07-01,General Medicine,Male,9,Emergency,DR008,Private,Discharged,71.0,69,0,4.5
+P00554,2025-07-02,Emergency,Male,81,Emergency,DR014,Private,Admitted,68.0,58,0,4.5
+P00826,2025-07-02,Cardiology,Female,84,Inpatient,DR002,Self-Pay,Admitted,28.0,121,2,4.5
+P00831,2025-07-03,Cardiology,Male,36,Emergency,DR017,Self-Pay,Discharged,66.0,66,0,4.7
+P00224,2025-07-03,General Medicine,Female,35,Emergency,DR006,Self-Pay,Discharged,56.0,119,0,4.7
+P00810,2025-07-03,General Medicine,Female,4,Outpatient,DR017,Government,Admitted,48.0,10,1,4.8
+P00467,2025-07-04,General Medicine,Female,46,Inpatient,DR020,Private,Discharged,67.0,71,6,4.0
+P00694,2025-07-05,Orthopedics,Male,33,Outpatient,DR013,Private,Transferred,29.0,99,0,4.3
+P00397,2025-07-05,Emergency,Male,82,Emergency,DR010,Government,Admitted,50.0,101,1,4.0
+P00590,2025-07-05,Emergency,Female,47,Outpatient,DR002,Private,Discharged,38.0,47,1,4.8
+P00155,2025-07-06,Emergency,Female,11,Outpatient,DR008,Government,Discharged,81.0,52,1,4.2
+P00566,2025-07-06,Emergency,Female,19,Emergency,DR018,Private,Discharged,64.0,105,1,4.6
+P00205,2025-07-06,Orthopedics,Female,14,Emergency,DR014,Private,Discharged,74.0,76,0,4.3
+P00237,2025-07-06,Emergency,Male,21,Outpatient,DR012,Government,Discharged,56.0,41,1,4.8
+P00893,2025-07-06,Emergency,Female,26,Outpatient,DR018,Private,Admitted,69.0,29,0,3.7
+P00345,2025-07-07,Pediatrics,Male,63,Outpatient,DR011,Government,Admitted,47.0,98,0,3.9
+P00090,2025-07-07,Pediatrics,Female,20,Emergency,DR020,Government,Discharged,35.0,69,0,4.7
+P00033,2025-07-07,General Medicine,Male,9,Emergency,DR005,Government,Discharged,41.0,86,0,4.6
+P00457,2025-07-08,Emergency,Female,60,Outpatient,DR010,Government,Admitted,60.0,51,1,4.5
+P00006,2025-07-08,Pediatrics,Male,14,Inpatient,DR003,Self-Pay,Discharged,53.0,135,6,5.0
+P00550,2025-07-09,Neurology,Male,57,Outpatient,DR012,Government,Discharged,37.0,57,0,4.6
+P00080,2025-07-09,Neurology,Female,46,Inpatient,DR006,Private,Discharged,44.0,107,9,4.4
+P00399,2025-07-09,General Medicine,Male,47,Outpatient,DR016,Private,Discharged,36.0,34,0,5.0
+P00651,2025-07-09,Pediatrics,Female,10,Inpatient,DR015,Government,Admitted,60.0,114,4,4.9
+P00174,2025-07-09,Orthopedics,Male,25,Inpatient,DR012,Private,Discharged,52.0,101,2,4.1
+P00035,2025-07-09,Cardiology,Female,33,Outpatient,DR004,Private,Discharged,56.0,51,1,4.9
+P00069,2025-07-10,Cardiology,Male,68,Inpatient,DR011,Private,Discharged,68.0,150,9,4.6
+P00347,2025-07-10,Emergency,Female,13,Emergency,DR004,Private,Discharged,76.0,80,0,4.0
+P00652,2025-07-10,Neurology,Female,53,Inpatient,DR008,Private,Admitted,48.0,85,9,4.4
+P00905,2025-07-11,Emergency,Male,46,Outpatient,DR013,Self-Pay,Discharged,68.0,33,1,4.3
+P00022,2025-07-11,Emergency,Male,73,Inpatient,DR007,Self-Pay,Discharged,65.0,95,6,4.5
+P00542,2025-07-11,General Medicine,Female,31,Outpatient,DR001,Government,Discharged,42.0,36,0,4.7
+P00458,2025-07-11,Pediatrics,Male,73,Outpatient,DR005,Private,Discharged,27.0,78,0,4.5
+P00702,2025-07-11,Emergency,Female,43,Inpatient,DR016,Government,Discharged,70.0,114,5,3.6
+P00328,2025-07-11,General Medicine,Female,37,Emergency,DR006,Government,Transferred,57.0,36,0,4.6
+P00788,2025-07-11,General Medicine,Female,75,Emergency,DR003,Self-Pay,Discharged,57.0,55,0,4.4
+P00293,2025-07-13,Cardiology,Male,4,Outpatient,DR009,Private,Discharged,37.0,101,0,4.7
+P00975,2025-07-13,General Medicine,Male,32,Outpatient,DR013,Government,Admitted,29.0,38,1,5.0
+P00613,2025-07-13,Neurology,Female,41,Emergency,DR018,Government,Discharged,86.0,39,1,4.1
+P00833,2025-07-14,General Medicine,Female,42,Emergency,DR011,Government,Transferred,67.0,94,0,4.9
+P00835,2025-07-14,Orthopedics,Female,85,Outpatient,DR002,Private,Discharged,34.0,54,0,3.9
+P00304,2025-07-14,General Medicine,Female,46,Outpatient,DR015,Private,Admitted,22.0,23,0,5.0
+P00418,2025-07-15,Pediatrics,Female,61,Outpatient,DR019,Private,Discharged,32.0,55,1,4.6
+P00533,2025-07-15,Emergency,Male,22,Emergency,DR007,Government,Discharged,85.0,49,0,4.0
+P00743,2025-07-16,General Medicine,Female,53,Outpatient,DR015,Private,Discharged,23.0,64,0,4.7
+P00713,2025-07-16,Cardiology,Female,4,Emergency,DR018,Private,Admitted,69.0,32,1,3.6
+P00231,2025-07-17,Emergency,Female,49,Inpatient,DR014,Private,Admitted,100.0,108,7,3.7
+P00220,2025-07-17,Emergency,Male,2,Inpatient,DR019,Self-Pay,Admitted,54.0,129,3,4.3
+P00946,2025-07-17,General Medicine,Female,68,Emergency,DR005,Government,Discharged,70.0,105,1,5.0
+P00182,2025-07-17,General Medicine,Male,18,Emergency,DR001,Government,Transferred,73.0,33,1,4.3
+P00247,2025-07-18,Emergency,Female,67,Outpatient,DR003,Private,Transferred,28.0,69,0,4.9
+P00112,2025-07-20,General Medicine,Male,61,Outpatient,DR016,Government,Discharged,54.0,47,1,4.6
+P00704,2025-07-20,General Medicine,Female,7,Outpatient,DR009,Government,Admitted,43.0,34,0,4.5
+P00235,2025-07-20,Emergency,Female,38,Inpatient,DR009,Private,Discharged,49.0,135,2,5.0
+P00073,2025-07-21,Emergency,Female,8,Emergency,DR015,Self-Pay,Discharged,59.0,108,0,4.1
+P00751,2025-07-21,Orthopedics,Female,52,Emergency,DR010,Self-Pay,Admitted,88.0,10,1,4.8
+P00635,2025-07-21,Pediatrics,Male,36,Outpatient,DR009,Private,Discharged,58.0,32,0,4.3
+P00908,2025-07-21,General Medicine,Female,15,Outpatient,DR015,Private,Admitted,48.0,78,0,4.2
+P00223,2025-07-22,Pediatrics,Female,12,Emergency,DR014,Government,Discharged,36.0,88,0,5.0
+P00977,2025-07-22,Emergency,Male,34,Emergency,DR013,Private,Discharged,94.0,90,0,4.3
+P00666,2025-07-22,Emergency,Male,25,Inpatient,DR017,Government,Discharged,64.0,110,5,3.6
+P00474,2025-07-23,Cardiology,Female,14,Inpatient,DR018,Government,Admitted,67.0,120,8,3.9
+P00759,2025-07-24,Emergency,Female,5,Emergency,DR003,Private,Transferred,107.0,60,1,4.1
+P00818,2025-07-24,Pediatrics,Male,8,Inpatient,DR020,Government,Discharged,27.0,111,8,4.9
+P00574,2025-07-25,Emergency,Male,51,Outpatient,DR014,Government,Admitted,53.0,75,0,4.9
+P00060,2025-07-25,General Medicine,Female,69,Outpatient,DR002,Government,Admitted,60.0,42,0,3.8
+P00881,2025-07-26,Emergency,Female,69,Inpatient,DR014,Private,Admitted,112.0,92,7,3.2
+P00782,2025-07-26,Emergency,Male,3,Outpatient,DR013,Private,Discharged,62.0,47,0,4.3
+P00134,2025-07-26,Emergency,Female,20,Inpatient,DR012,Self-Pay,Transferred,69.0,137,4,4.3
+P00296,2025-07-27,Emergency,Male,30,Emergency,DR019,Private,Transferred,91.0,96,0,4.6
+P00083,2025-07-27,Cardiology,Male,19,Emergency,DR015,Self-Pay,Discharged,58.0,112,0,4.7
+P00275,2025-07-27,Emergency,Male,29,Emergency,DR015,Government,Discharged,79.0,62,0,3.9
+P00705,2025-07-31,General Medicine,Male,51,Emergency,DR001,Private,Discharged,82.0,79,0,3.7
+P00918,2025-07-31,General Medicine,Female,24,Outpatient,DR017,Private,Discharged,34.0,45,0,4.7
+P00986,2025-07-31,Pediatrics,Male,25,Outpatient,DR019,Private,Discharged,47.0,62,0,3.8
+P00665,2025-08-01,General Medicine,Male,35,Emergency,DR013,Private,Admitted,62.0,44,0,4.2
+P00082,2025-08-01,Neurology,Male,15,Outpatient,DR015,Government,Discharged,26.0,93,0,4.8
+P00123,2025-08-02,Cardiology,Female,48,Outpatient,DR012,Private,Transferred,37.0,30,1,4.9
+P00885,2025-08-02,Pediatrics,Male,21,Outpatient,DR018,Government,Discharged,45.0,57,0,4.0
+P00864,2025-08-02,Cardiology,Male,82,Outpatient,DR011,Government,Discharged,62.0,10,0,3.9
+P00525,2025-08-03,Orthopedics,Female,20,Emergency,DR008,Government,Admitted,63.0,53,1,3.8
+P00078,2025-08-03,General Medicine,Male,54,Emergency,DR019,Government,Discharged,70.0,63,1,4.0
+P00010,2025-08-03,General Medicine,Male,83,Outpatient,DR011,Private,Discharged,41.0,89,1,4.3
+P00393,2025-08-03,Neurology,Male,81,Emergency,DR018,Private,Admitted,68.0,95,0,4.0
+P00595,2025-08-03,General Medicine,Female,33,Outpatient,DR012,Private,Admitted,27.0,49,0,5.0
+P00889,2025-08-04,Orthopedics,Male,60,Inpatient,DR015,Government,Discharged,45.0,132,8,4.5
+P00118,2025-08-04,Cardiology,Male,65,Inpatient,DR011,Private,Discharged,64.0,113,8,4.9
+P00624,2025-08-05,Emergency,Female,9,Inpatient,DR016,Government,Discharged,74.0,147,9,3.6
+P00733,2025-08-05,Orthopedics,Female,59,Inpatient,DR009,Government,Discharged,80.0,144,5,4.2
+P00088,2025-08-05,Orthopedics,Male,51,Outpatient,DR018,Government,Admitted,20.0,68,1,4.8
+P00557,2025-08-05,Emergency,Male,41,Inpatient,DR011,Government,Discharged,87.0,124,4,4.2
+P00564,2025-08-05,Orthopedics,Male,11,Outpatient,DR011,Private,Discharged,28.0,47,1,4.7
+P00537,2025-08-05,Pediatrics,Female,77,Outpatient,DR002,Government,Discharged,18.0,33,0,5.0
+P00475,2025-08-06,Neurology,Female,60,Outpatient,DR012,Private,Discharged,62.0,21,1,4.5
+P00218,2025-08-06,Pediatrics,Female,16,Emergency,DR004,Private,Discharged,71.0,49,0,5.0
+P00130,2025-08-06,Orthopedics,Female,46,Emergency,DR007,Government,Discharged,69.0,57,0,4.4
+P00070,2025-08-06,General Medicine,Male,35,Outpatient,DR004,Government,Admitted,59.0,24,0,4.8
+P00857,2025-08-06,Neurology,Female,35,Emergency,DR007,Private,Admitted,70.0,101,0,4.1
+P00643,2025-08-08,Pediatrics,Male,54,Emergency,DR018,Private,Discharged,46.0,72,1,5.0
+P00698,2025-08-08,Emergency,Female,57,Emergency,DR016,Private,Discharged,87.0,68,1,3.6
+P00332,2025-08-08,Neurology,Female,53,Emergency,DR006,Private,Admitted,76.0,78,0,4.3
+P00209,2025-08-08,Cardiology,Male,39,Inpatient,DR013,Government,Transferred,44.0,108,10,4.5
+P00967,2025-08-08,Emergency,Male,54,Inpatient,DR009,Private,Discharged,57.0,112,2,4.8
+P00706,2025-08-08,Orthopedics,Male,73,Emergency,DR010,Private,Discharged,56.0,65,1,4.8
+P00469,2025-08-08,Emergency,Female,4,Outpatient,DR012,Private,Transferred,78.0,49,0,3.8
+P00596,2025-08-09,Emergency,Female,24,Outpatient,DR015,Private,Transferred,68.0,16,0,4.4
+P00776,2025-08-10,General Medicine,Male,62,Outpatient,DR019,Private,Discharged,36.0,87,0,5.0
+P00481,2025-08-10,Pediatrics,Female,83,Inpatient,DR004,Government,Discharged,35.0,132,3,4.4
+P00145,2025-08-10,Emergency,Male,17,Inpatient,DR010,Private,Admitted,75.0,100,1,4.8
+P00575,2025-08-11,Orthopedics,Female,13,Emergency,DR002,Self-Pay,Discharged,87.0,61,0,4.2
+P00355,2025-08-11,Pediatrics,Female,85,Outpatient,DR014,Private,Discharged,46.0,38,1,4.5
+P00964,2025-08-11,Orthopedics,Male,16,Outpatient,DR011,Private,Discharged,69.0,20,1,5.0
+P00591,2025-08-11,Cardiology,Female,23,Emergency,DR010,Private,Transferred,57.0,87,0,4.0
+P00491,2025-08-11,Emergency,Female,13,Outpatient,DR014,Private,Transferred,26.0,66,0,5.0
+P00726,2025-08-12,Pediatrics,Male,50,Emergency,DR020,Private,Admitted,68.0,78,0,4.7
+P00212,2025-08-12,Cardiology,Male,84,Outpatient,DR018,Private,Discharged,50.0,57,1,5.0
+P00551,2025-08-12,General Medicine,Male,26,Inpatient,DR017,Self-Pay,Discharged,56.0,90,10,4.8
+P00684,2025-08-12,Cardiology,Male,27,Inpatient,DR003,Private,Discharged,74.0,92,1,5.0
+P00987,2025-08-13,Pediatrics,Male,21,Emergency,DR002,Private,Discharged,50.0,89,1,3.5
+P00186,2025-08-13,Emergency,Male,36,Outpatient,DR014,Private,Admitted,65.0,79,0,3.5
+P00175,2025-08-13,Emergency,Male,46,Inpatient,DR009,Government,Discharged,85.0,114,5,3.7
+P00213,2025-08-13,Neurology,Male,70,Outpatient,DR006,Private,Transferred,55.0,57,1,4.2
+P00939,2025-08-14,Pediatrics,Female,38,Emergency,DR020,Private,Admitted,39.0,110,0,4.1
+P00790,2025-08-14,Orthopedics,Female,50,Outpatient,DR018,Government,Discharged,26.0,46,0,5.0
+P00318,2025-08-14,Neurology,Female,18,Inpatient,DR019,Private,Discharged,88.0,130,3,3.8
+P00903,2025-08-15,Emergency,Female,41,Inpatient,DR020,Government,Admitted,69.0,110,1,3.6
+P00670,2025-08-15,Emergency,Female,54,Inpatient,DR009,Private,Admitted,89.0,140,3,4.9
+P00125,2025-08-15,Neurology,Male,56,Emergency,DR001,Self-Pay,Discharged,97.0,85,0,4.2
+P00287,2025-08-15,General Medicine,Male,34,Outpatient,DR005,Government,Discharged,26.0,63,0,4.9
+P00543,2025-08-15,General Medicine,Female,78,Emergency,DR010,Self-Pay,Discharged,62.0,72,0,5.0
+P00701,2025-08-16,Emergency,Female,80,Outpatient,DR019,Private,Discharged,54.0,41,0,4.0
+P00926,2025-08-16,General Medicine,Male,23,Emergency,DR017,Unknown,Discharged,55.0,63,0,5.0
+P00962,2025-08-17,Orthopedics,Male,47,Inpatient,DR004,Government,Discharged,57.0,149,2,3.9
+P00439,2025-08-17,Orthopedics,Male,35,Inpatient,DR002,Private,Admitted,76.0,126,1,4.3
+P00942,2025-08-17,General Medicine,Female,84,Inpatient,DR009,Self-Pay,Discharged,74.0,142,3,4.1
+P00668,2025-08-17,Pediatrics,Male,17,Emergency,DR005,Government,Discharged,66.0,66,0,4.4
+P00783,2025-08-17,Neurology,Male,6,Inpatient,DR002,Private,Admitted,37.0,121,4,4.1
+P00312,2025-08-18,Pediatrics,Male,42,Outpatient,DR016,Government,Discharged,33.0,21,1,4.2
+P00605,2025-08-18,General Medicine,Female,83,Emergency,DR014,Self-Pay,Discharged,60.0,78,0,4.4
+P00173,2025-08-19,Neurology,Female,8,Inpatient,DR009,Private,Discharged,73.0,104,4,4.9
+P00141,2025-08-19,Emergency,Female,9,Emergency,DR013,Government,Discharged,90.0,80,0,4.1
+P00108,2025-08-19,Pediatrics,Male,6,Emergency,DR010,Government,Discharged,68.0,10,0,4.4
+P00146,2025-08-19,Orthopedics,Male,21,Outpatient,DR017,Private,Transferred,35.0,38,1,4.2
+P00911,2025-08-19,Pediatrics,Male,67,Outpatient,DR002,Private,Discharged,58.0,62,0,5.0
+P00337,2025-08-21,Cardiology,Male,51,Inpatient,DR010,Government,Discharged,69.0,76,10,4.4
+P00271,2025-08-21,General Medicine,Female,65,Emergency,DR020,Self-Pay,Admitted,66.0,78,0,4.1
+P00674,2025-08-21,Orthopedics,Male,25,Emergency,DR006,Private,Admitted,47.0,83,0,4.3
+P00851,2025-08-21,Pediatrics,Male,1,Emergency,DR008,Private,Discharged,55.0,67,0,3.9
+P00179,2025-08-21,Emergency,Female,47,Outpatient,DR020,Government,Admitted,42.0,10,0,4.1
+P00570,2025-08-21,Cardiology,Female,44,Outpatient,DR008,Private,Discharged,44.0,77,0,3.8
+P00194,2025-08-21,Cardiology,Male,41,Emergency,DR014,Private,Discharged,77.0,82,1,4.7
+P00922,2025-08-21,Emergency,Male,34,Emergency,DR003,Private,Admitted,58.0,40,0,4.4
+P00188,2025-08-22,Emergency,Female,19,Outpatient,DR015,Private,Discharged,79.0,56,0,4.7
+P00597,2025-08-23,Emergency,Female,11,Emergency,DR013,Private,Discharged,85.0,54,1,4.2
+P00820,2025-08-23,Pediatrics,Female,8,Outpatient,DR010,Self-Pay,Discharged,46.0,10,0,4.6
+P00931,2025-08-24,General Medicine,Male,57,Outpatient,DR004,Self-Pay,Discharged,28.0,46,0,4.6
+P00775,2025-08-24,Cardiology,Female,62,Outpatient,DR014,Self-Pay,Transferred,36.0,80,0,4.6
+P00028,2025-08-24,General Medicine,Male,61,Inpatient,DR011,Self-Pay,Discharged,67.0,101,1,4.1
+P00455,2025-08-25,Neurology,Female,8,Emergency,DR010,Private,Discharged,68.0,85,1,3.7
+P00084,2025-08-25,Cardiology,Male,26,Inpatient,DR020,Government,Admitted,45.0,117,1,4.2
+P00147,2025-08-25,Emergency,Male,51,Emergency,DR002,Self-Pay,Transferred,79.0,83,0,4.6
+P00898,2025-08-26,Emergency,Female,4,Emergency,DR015,Private,Admitted,56.0,58,0,4.5
+P00473,2025-08-26,Neurology,Male,3,Outpatient,DR011,Government,Discharged,20.0,20,0,4.1
+P00309,2025-08-26,Emergency,Male,59,Outpatient,DR020,Private,Discharged,61.0,10,0,4.5
+P00600,2025-08-27,General Medicine,Female,47,Outpatient,DR011,Government,Admitted,27.0,10,0,4.7
+P00900,2025-08-27,Pediatrics,Female,84,Outpatient,DR009,Private,Discharged,27.0,44,0,4.4
+P00865,2025-08-27,General Medicine,Male,68,Inpatient,DR010,Government,Admitted,33.0,128,3,4.0
+P00727,2025-08-27,Emergency,Female,75,Outpatient,DR009,Government,Discharged,58.0,62,1,4.7
+P00448,2025-08-27,General Medicine,Female,36,Inpatient,DR006,Government,Transferred,62.0,132,8,3.8
+P00232,2025-08-28,General Medicine,Male,25,Outpatient,DR015,Self-Pay,Discharged,21.0,20,0,4.5
+P00707,2025-08-28,General Medicine,Female,32,Outpatient,DR019,Government,Admitted,27.0,78,0,5.0
+P00822,2025-08-28,Pediatrics,Female,43,Inpatient,DR013,Government,Discharged,32.0,101,8,4.8
+P00142,2025-08-29,General Medicine,Female,37,Outpatient,DR003,Government,Discharged,30.0,51,0,4.1
+P00718,2025-08-30,Emergency,Male,77,Emergency,DR009,Self-Pay,Transferred,86.0,93,0,4.8
+P00523,2025-08-30,Orthopedics,Female,54,Emergency,DR003,Private,Discharged,61.0,47,0,4.4
+P00052,2025-08-30,Pediatrics,Male,30,Emergency,DR019,Self-Pay,Admitted,38.0,69,0,4.6
+P00642,2025-08-30,Orthopedics,Female,28,Outpatient,DR011,Self-Pay,Discharged,30.0,11,0,4.7
+P00156,2025-08-31,Emergency,Female,19,Emergency,DR001,Government,Discharged,69.0,26,0,4.3
+P00959,2025-08-31,Cardiology,Male,51,Outpatient,DR001,Government,Discharged,27.0,34,0,5.0
+P00040,2025-09-01,Cardiology,Male,59,Emergency,DR014,Private,Discharged,66.0,83,0,4.9
+P00371,2025-09-03,Cardiology,Female,81,Emergency,DR001,Government,Admitted,57.0,70,0,4.9
+P00486,2025-09-03,Pediatrics,Female,34,Inpatient,DR002,Government,Discharged,5.0,121,5,5.0
+P00221,2025-09-04,Pediatrics,Female,81,Inpatient,DR014,Self-Pay,Discharged,44.0,136,4,4.7
+P00501,2025-09-04,General Medicine,Female,53,Outpatient,DR007,Government,Admitted,15.0,17,1,4.8
+P00375,2025-09-04,Pediatrics,Male,46,Emergency,DR003,Private,Discharged,65.0,67,1,3.4
+P00803,2025-09-04,Emergency,Female,11,Emergency,DR014,Private,Discharged,66.0,58,0,4.4
+P00462,2025-09-04,Emergency,Female,66,Emergency,DR012,Government,Discharged,70.0,96,0,3.8
+P00958,2025-09-04,Cardiology,Female,27,Outpatient,DR001,Private,Discharged,53.0,36,0,5.0
+P00539,2025-09-06,Pediatrics,Male,8,Inpatient,DR017,Government,Discharged,53.0,139,6,4.2
+P00824,2025-09-06,Emergency,Male,81,Emergency,DR007,Private,Discharged,60.0,95,0,4.6
+P00799,2025-09-06,Cardiology,Male,64,Emergency,DR004,Government,Discharged,53.0,72,1,4.5
+P00861,2025-09-06,Cardiology,Male,45,Inpatient,DR007,Government,Discharged,52.0,80,5,4.8
+P00768,2025-09-07,Orthopedics,Female,15,Inpatient,DR009,Private,Discharged,50.0,108,9,3.6
+P00484,2025-09-07,Pediatrics,Female,40,Outpatient,DR017,Private,Discharged,43.0,10,0,4.8
+P00492,2025-09-07,Neurology,Male,56,Emergency,DR007,Private,Admitted,54.0,70,0,4.8
+P00719,2025-09-08,Orthopedics,Female,79,Emergency,DR016,Self-Pay,Discharged,36.0,39,0,4.5
+P00777,2025-09-08,General Medicine,Male,82,Emergency,DR005,Private,Discharged,62.0,100,0,4.4
+P00079,2025-09-09,General Medicine,Female,76,Outpatient,DR006,Self-Pay,Discharged,45.0,46,0,3.8
+P00089,2025-09-09,Orthopedics,Female,38,Outpatient,DR005,Government,Discharged,35.0,69,1,4.6
+P00629,2025-09-09,General Medicine,Female,56,Outpatient,DR003,Government,Discharged,14.0,58,0,4.9
+P00667,2025-09-09,General Medicine,Male,3,Emergency,DR020,Private,Discharged,51.0,46,0,4.3
+P00259,2025-09-09,Emergency,Female,33,Emergency,DR013,Unknown,Admitted,85.0,64,0,4.1
+P00242,2025-09-09,Neurology,Male,73,Outpatient,DR008,Government,Discharged,19.0,70,1,4.8
+P00789,2025-09-09,Cardiology,Female,77,Outpatient,DR003,Government,Discharged,51.0,36,0,4.5
+P00604,2025-09-10,Neurology,Male,84,Inpatient,DR014,Private,Transferred,60.0,125,3,4.4
+P00027,2025-09-10,Emergency,Female,53,Outpatient,DR013,Government,Discharged,83.0,28,0,3.6
+P00879,2025-09-10,Neurology,Male,41,Inpatient,DR003,Self-Pay,Discharged,51.0,179,6,4.8
+P00522,2025-09-10,Emergency,Male,72,Outpatient,DR019,Government,Discharged,62.0,73,0,4.7
+P00710,2025-09-10,Pediatrics,Male,72,Emergency,DR016,Private,Admitted,62.0,60,1,4.2
+P00348,2025-09-10,Emergency,Female,11,Outpatient,DR012,Government,Discharged,58.0,59,0,4.5
+P00286,2025-09-11,Orthopedics,Female,8,Outpatient,DR003,Private,Discharged,70.0,43,1,3.5
+P00266,2025-09-11,Cardiology,Female,7,Emergency,DR007,Government,Transferred,80.0,101,0,4.2
+P00480,2025-09-11,Neurology,Male,61,Outpatient,DR011,Government,Discharged,51.0,61,1,4.7
+P00226,2025-09-12,Emergency,Female,55,Emergency,DR016,Private,Transferred,79.0,44,0,3.2
+P00131,2025-09-12,Emergency,Female,62,Outpatient,DR002,Private,Admitted,57.0,88,1,4.6
+P00780,2025-09-12,Orthopedics,Male,46,Outpatient,DR012,Private,Admitted,44.0,50,1,4.0
+P00350,2025-09-13,Emergency,Female,17,Emergency,DR014,Government,Discharged,76.0,92,0,4.8
+P00712,2025-09-13,Emergency,Female,59,Outpatient,DR008,Self-Pay,Discharged,58.0,27,0,4.3
+P00875,2025-09-14,Emergency,Male,5,Inpatient,DR016,Private,Discharged,48.0,156,6,4.5
+P00128,2025-09-14,Cardiology,Female,61,Outpatient,DR015,Private,Discharged,28.0,34,0,4.7
+P00495,2025-09-14,Emergency,Female,39,Outpatient,DR009,Private,Discharged,67.0,26,1,4.1
+P00502,2025-09-15,Emergency,Male,39,Outpatient,DR015,Self-Pay,Discharged,51.0,10,1,4.1
+P00019,2025-09-15,Emergency,Female,71,Inpatient,DR002,Private,Discharged,40.0,141,5,4.8
+P00240,2025-09-16,Neurology,Male,36,Inpatient,DR013,Private,Discharged,57.0,118,9,4.2
+P00180,2025-09-16,Emergency,Male,84,Outpatient,DR007,Government,Discharged,62.0,37,0,5.0
+P00771,2025-09-16,Neurology,Female,46,Emergency,DR002,Government,Discharged,95.0,91,0,3.8
+P00680,2025-09-16,Neurology,Male,47,Emergency,DR014,Government,Transferred,69.0,77,0,4.7
+P00747,2025-09-16,General Medicine,Male,75,Inpatient,DR013,Private,Discharged,32.0,156,10,5.0
+P00760,2025-09-17,General Medicine,Male,84,Emergency,DR005,Self-Pay,Admitted,62.0,77,0,4.2
+P00067,2025-09-17,General Medicine,Male,61,Emergency,DR002,Government,Admitted,30.0,75,0,5.0
+P00107,2025-09-18,Pediatrics,Female,38,Outpatient,DR020,Self-Pay,Discharged,50.0,10,0,4.3
+P00419,2025-09-19,Cardiology,Male,31,Outpatient,DR004,Private,Discharged,26.0,56,0,4.6
+P00816,2025-09-19,Emergency,Male,66,Outpatient,DR018,Private,Transferred,72.0,41,0,4.2
+P00258,2025-09-20,Emergency,Female,57,Emergency,DR002,Government,Transferred,50.0,30,0,3.8
+P00528,2025-09-21,Cardiology,Male,50,Outpatient,DR003,Private,Transferred,32.0,35,0,4.7
+P00930,2025-09-21,Orthopedics,Female,41,Outpatient,DR002,Self-Pay,Admitted,51.0,49,0,4.5
+P00315,2025-09-21,General Medicine,Male,35,Outpatient,DR013,Government,Admitted,27.0,54,0,5.0
+P00058,2025-09-21,Neurology,Male,85,Emergency,DR006,Government,Transferred,77.0,92,0,4.2
+P00412,2025-09-21,Emergency,Male,38,Outpatient,DR001,Government,Discharged,52.0,23,1,4.3
+P00386,2025-09-21,Orthopedics,Female,33,Emergency,DR010,Government,Discharged,54.0,85,0,4.1
+P00572,2025-09-22,Pediatrics,Female,82,Outpatient,DR001,Private,Admitted,14.0,31,0,4.7
+P00053,2025-09-22,Neurology,Female,12,Outpatient,DR013,Self-Pay,Discharged,47.0,82,0,3.7
+P00729,2025-09-24,Neurology,Female,32,Inpatient,DR004,Private,Discharged,55.0,86,4,4.9
+P00254,2025-09-24,Pediatrics,Male,23,Outpatient,DR003,Self-Pay,Discharged,19.0,102,0,4.6
+P00773,2025-09-25,Pediatrics,Female,6,Emergency,DR008,Government,Admitted,64.0,79,0,5.0
+P00114,2025-09-25,Pediatrics,Female,6,Outpatient,DR014,Government,Admitted,27.0,59,0,4.9
+P00199,2025-09-25,Emergency,Female,74,Inpatient,DR002,Private,Discharged,57.0,156,8,4.7
+P00511,2025-09-25,Orthopedics,Female,19,Inpatient,DR012,Private,Discharged,72.0,135,10,4.1
+P00553,2025-09-25,Emergency,Female,38,Emergency,DR016,Government,Discharged,72.0,111,0,4.6
+P00427,2025-09-26,Emergency,Female,64,Emergency,DR015,Self-Pay,Transferred,89.0,77,0,4.6
+P00074,2025-09-27,Cardiology,Female,45,Outpatient,DR004,Private,Transferred,61.0,56,0,5.0
+P00077,2025-09-28,Emergency,Male,76,Emergency,DR019,Government,Discharged,71.0,93,0,4.2
+P00409,2025-09-28,General Medicine,Male,72,Emergency,DR004,Private,Admitted,82.0,51,0,4.2
+P00003,2025-09-28,Cardiology,Female,84,Emergency,DR017,Government,Discharged,51.0,92,0,5.0
+P00034,2025-09-28,Orthopedics,Male,64,Inpatient,DR016,Private,Admitted,57.0,77,8,4.3
+P00685,2025-09-29,General Medicine,Male,53,Outpatient,DR001,Government,Discharged,34.0,39,1,4.4
+P00456,2025-09-29,General Medicine,Male,5,Outpatient,DR001,Private,Discharged,52.0,46,0,4.7
+P00812,2025-09-30,General Medicine,Female,59,Emergency,DR015,Government,Discharged,48.0,97,0,4.3
+P00368,2025-09-30,Emergency,Male,21,Outpatient,DR011,Government,Discharged,67.0,61,0,4.6
+P00910,2025-09-30,Neurology,Male,1,Outpatient,DR014,Self-Pay,Discharged,32.0,101,1,4.5
+P00561,2025-09-30,Cardiology,Male,64,Emergency,DR011,Private,Discharged,72.0,57,1,4.4
+P00048,2025-10-01,Neurology,Male,55,Inpatient,DR004,Private,Discharged,73.0,105,7,4.6
+P00901,2025-10-01,Emergency,Female,15,Outpatient,DR002,Government,Transferred,53.0,10,0,4.7
+P00435,2025-10-02,General Medicine,Male,56,Inpatient,DR007,Self-Pay,Discharged,69.0,100,2,4.1
+P00985,2025-10-02,Emergency,Male,52,Emergency,DR018,Self-Pay,Discharged,67.0,93,0,3.5
+P00630,2025-10-02,Orthopedics,Female,45,Outpatient,DR013,Private,Discharged,31.0,10,1,4.6
+P00945,2025-10-04,Emergency,Male,47,Inpatient,DR009,Private,Discharged,66.0,134,8,3.8
+P00538,2025-10-04,Orthopedics,Male,59,Emergency,DR009,Government,Discharged,47.0,56,0,3.9
+P00023,2025-10-04,Emergency,Male,19,Outpatient,DR015,Government,Admitted,60.0,61,1,4.5
+P00301,2025-10-04,Emergency,Male,4,Outpatient,DR013,Private,Discharged,72.0,12,1,4.8
+P00319,2025-10-04,Pediatrics,Female,73,Inpatient,DR016,Private,Discharged,27.0,131,2,3.9
+P00842,2025-10-04,Emergency,Male,27,Outpatient,DR007,Self-Pay,Admitted,47.0,19,1,4.9
+P00460,2025-10-05,Emergency,Male,36,Outpatient,DR007,Self-Pay,Discharged,58.0,62,1,3.9
+P00556,2025-10-06,Orthopedics,Female,8,Inpatient,DR004,Self-Pay,Discharged,33.0,106,6,4.9
+P00442,2025-10-06,Cardiology,Male,26,Outpatient,DR004,Government,Discharged,62.0,85,0,4.3
+P00499,2025-10-07,General Medicine,Male,55,Outpatient,DR010,Private,Transferred,39.0,58,0,4.4
+P00339,2025-10-07,Emergency,Male,46,Outpatient,DR003,Government,Discharged,68.0,47,0,4.2
+P00228,2025-10-07,Neurology,Male,79,Outpatient,DR013,Government,Admitted,16.0,19,0,4.5
+P00087,2025-10-07,Neurology,Female,21,Outpatient,DR018,Government,Admitted,23.0,83,0,5.0
+P00361,2025-10-07,Pediatrics,Male,19,Inpatient,DR017,Private,Admitted,61.0,156,10,4.1
+P00354,2025-10-08,General Medicine,Male,37,Outpatient,DR005,Private,Discharged,36.0,70,0,4.6
+P00832,2025-10-08,Neurology,Male,28,Inpatient,DR014,Government,Admitted,66.0,160,10,4.1
+P00860,2025-10-09,Pediatrics,Male,18,Inpatient,DR006,Government,Discharged,37.0,91,9,4.5
+P00937,2025-10-09,Cardiology,Female,40,Outpatient,DR005,Self-Pay,Discharged,52.0,11,0,4.9
+P00731,2025-10-09,Orthopedics,Male,22,Emergency,DR009,Government,Discharged,77.0,111,0,4.1
+P00611,2025-10-10,Emergency,Female,48,Outpatient,DR011,Government,Discharged,32.0,10,0,4.3
+P00133,2025-10-10,Emergency,Female,43,Outpatient,DR004,Private,Discharged,46.0,91,1,5.0
+P00176,2025-10-10,Emergency,Male,30,Outpatient,DR010,Government,Transferred,50.0,40,0,4.8
+P00736,2025-10-10,Emergency,Male,26,Emergency,DR016,Private,Transferred,97.0,58,0,3.6
+P00316,2025-10-10,Pediatrics,Female,6,Outpatient,DR009,Government,Discharged,54.0,50,0,4.0
+P00322,2025-10-11,Cardiology,Male,59,Outpatient,DR012,Self-Pay,Discharged,10.0,25,0,4.5
+P00164,2025-10-11,Orthopedics,Female,76,Emergency,DR020,Government,Discharged,55.0,118,0,4.4
+P00573,2025-10-11,General Medicine,Male,15,Emergency,DR004,Government,Transferred,28.0,58,1,4.1
+P00158,2025-10-11,Orthopedics,Male,77,Inpatient,DR009,Private,Transferred,50.0,112,7,4.7
+P00468,2025-10-12,Orthopedics,Female,78,Outpatient,DR007,Government,Discharged,55.0,44,0,4.2
+P00808,2025-10-12,Neurology,Female,26,Emergency,DR007,Self-Pay,Discharged,62.0,82,1,3.5
+P00518,2025-10-12,General Medicine,Female,32,Inpatient,DR008,Government,Discharged,57.0,146,1,4.3
+P00560,2025-10-13,Neurology,Female,44,Outpatient,DR005,Private,Admitted,50.0,24,0,4.3
+P00717,2025-10-13,Emergency,Male,28,Outpatient,DR006,Self-Pay,Discharged,80.0,64,0,4.4
+P00169,2025-10-13,Pediatrics,Female,61,Outpatient,DR002,Private,Discharged,64.0,77,0,3.8
+P00795,2025-10-13,Neurology,Male,16,Emergency,DR019,Private,Discharged,46.0,70,0,5.0
+P00320,2025-10-13,Emergency,Female,29,Outpatient,DR007,Self-Pay,Discharged,41.0,35,0,4.8
+P00761,2025-10-15,Cardiology,Male,52,Outpatient,DR010,Private,Admitted,22.0,66,1,4.2
+P00363,2025-10-15,General Medicine,Male,11,Outpatient,DR014,Private,Discharged,20.0,26,1,4.8
+P00392,2025-10-15,Neurology,Female,64,Emergency,DR017,Private,Transferred,61.0,52,1,4.3
+P00106,2025-10-16,General Medicine,Female,72,Outpatient,DR002,Private,Discharged,77.0,90,0,4.7
+P00943,2025-10-16,Orthopedics,Female,3,Outpatient,DR005,Private,Discharged,35.0,10,0,5.0
+P00300,2025-10-16,Orthopedics,Male,45,Emergency,DR011,Self-Pay,Discharged,103.0,31,0,4.1
+P00723,2025-10-16,Emergency,Female,5,Outpatient,DR010,Unknown,Discharged,63.0,58,0,4.8
+P00479,2025-10-16,General Medicine,Female,45,Emergency,DR012,Private,Discharged,72.0,74,0,4.6
+P00449,2025-10-17,Pediatrics,Male,25,Inpatient,DR012,Government,Discharged,65.0,89,3,4.6
+P00489,2025-10-17,Cardiology,Male,66,Inpatient,DR010,Self-Pay,Discharged,24.0,93,2,5.0
+P00627,2025-10-19,Emergency,Male,75,Outpatient,DR016,Government,Discharged,39.0,30,0,4.4
+P00874,2025-10-19,Pediatrics,Female,41,Inpatient,DR005,Private,Admitted,28.0,130,7,4.5
+P00997,2025-10-20,Emergency,Female,1,Emergency,DR004,Self-Pay,Discharged,86.0,86,1,4.8
+P00119,2025-10-20,Emergency,Female,57,Inpatient,DR004,Government,Discharged,91.0,103,3,4.0
+P00227,2025-10-21,Cardiology,Female,45,Outpatient,DR017,Self-Pay,Admitted,73.0,50,0,4.4
+P00902,2025-10-21,Cardiology,Female,8,Inpatient,DR008,Self-Pay,Discharged,79.0,132,6,4.0
+P00021,2025-10-21,Pediatrics,Male,63,Outpatient,DR008,Self-Pay,Discharged,25.0,41,0,5.0
+P00791,2025-10-21,Emergency,Female,11,Outpatient,DR011,Government,Discharged,75.0,10,0,3.9
+P00200,2025-10-22,Emergency,Male,66,Emergency,DR012,Private,Admitted,96.0,67,1,4.5
+P00081,2025-10-23,General Medicine,Female,47,Emergency,DR020,Government,Discharged,43.0,119,1,4.4
+P00256,2025-10-25,Cardiology,Female,48,Outpatient,DR009,Private,Discharged,55.0,38,0,4.7
+P00370,2025-10-26,Cardiology,Female,5,Outpatient,DR019,Self-Pay,Discharged,17.0,47,0,5.0
+P00914,2025-10-27,Cardiology,Female,40,Emergency,DR006,Private,Discharged,26.0,64,0,5.0
+P00980,2025-10-27,General Medicine,Male,11,Emergency,DR011,Private,Admitted,23.0,54,0,5.0
+P00858,2025-10-28,Orthopedics,Female,78,Outpatient,DR001,Government,Admitted,22.0,96,1,5.0
+P00625,2025-10-28,Pediatrics,Female,73,Outpatient,DR006,Self-Pay,Discharged,39.0,68,1,4.6
+P00094,2025-10-28,Neurology,Female,55,Outpatient,DR012,Self-Pay,Discharged,44.0,32,1,4.3
+P00341,2025-10-29,Neurology,Male,44,Outpatient,DR008,Private,Discharged,41.0,21,0,4.5
+P00521,2025-10-29,Pediatrics,Male,10,Outpatient,DR004,Government,Discharged,31.0,55,1,4.2
+P00781,2025-10-30,General Medicine,Male,13,Outpatient,DR017,Government,Admitted,43.0,21,0,3.7
+P00662,2025-10-30,Emergency,Male,81,Emergency,DR008,Private,Admitted,75.0,96,0,4.6
+P00714,2025-10-30,Emergency,Female,67,Emergency,DR002,Private,Admitted,78.0,86,1,4.3
+P00882,2025-10-30,Cardiology,Female,11,Outpatient,DR016,Private,Discharged,48.0,91,0,5.0
+P00302,2025-10-31,Neurology,Female,26,Inpatient,DR013,Self-Pay,Discharged,43.0,112,7,4.4
+P00274,2025-10-31,Emergency,Female,19,Outpatient,DR001,Private,Discharged,52.0,24,0,3.9
+P00076,2025-10-31,Emergency,Male,40,Emergency,DR007,Self-Pay,Discharged,75.0,67,0,4.6
+P00324,2025-10-31,Pediatrics,Female,17,Emergency,DR014,Government,Discharged,32.0,95,1,4.9
+P00265,2025-10-31,Cardiology,Male,37,Emergency,DR011,Self-Pay,Transferred,55.0,49,0,3.6
+P00405,2025-11-01,Pediatrics,Female,72,Outpatient,DR012,Self-Pay,Discharged,18.0,29,0,4.7
+P00675,2025-11-01,Emergency,Female,60,Outpatient,DR011,Private,Admitted,58.0,34,0,4.3
+P00772,2025-11-02,General Medicine,Male,69,Outpatient,DR007,Government,Discharged,46.0,51,0,4.6
+P00378,2025-11-02,General Medicine,Male,17,Outpatient,DR016,Self-Pay,Discharged,26.0,76,1,4.1
+P00792,2025-11-02,Cardiology,Male,28,Inpatient,DR020,Self-Pay,Discharged,66.0,131,2,5.0
+P00187,2025-11-03,General Medicine,Male,82,Emergency,DR002,Private,Admitted,44.0,50,1,4.2
+P00043,2025-11-03,General Medicine,Male,68,Outpatient,DR013,Government,Discharged,46.0,73,0,4.9
+P00248,2025-11-04,Pediatrics,Male,67,Inpatient,DR017,Private,Discharged,55.0,153,8,3.8
+P00798,2025-11-04,Orthopedics,Male,56,Emergency,DR009,Government,Admitted,76.0,34,0,4.2
+P00425,2025-11-04,General Medicine,Male,10,Emergency,DR016,Private,Discharged,40.0,116,0,4.6
+P00018,2025-11-05,Pediatrics,Female,45,Emergency,DR007,Private,Discharged,55.0,48,0,4.3
+P00068,2025-11-06,Pediatrics,Female,9,Outpatient,DR013,Private,Discharged,19.0,35,0,4.4
+P00294,2025-11-06,Neurology,Female,50,Emergency,DR007,Private,Discharged,60.0,63,0,4.4
+P00956,2025-11-07,Pediatrics,Male,62,Inpatient,DR018,Government,Admitted,49.0,111,4,5.0
+P00424,2025-11-07,General Medicine,Male,54,Outpatient,DR018,Government,Discharged,14.0,30,0,5.0
+P00741,2025-11-07,Pediatrics,Female,11,Inpatient,DR005,Government,Discharged,61.0,85,3,4.8
+P00716,2025-11-08,Pediatrics,Male,29,Emergency,DR006,Self-Pay,Discharged,44.0,66,0,4.5
+P00653,2025-11-08,Orthopedics,Male,44,Outpatient,DR019,Self-Pay,Admitted,46.0,70,1,4.4
+P00894,2025-11-08,Emergency,Male,40,Emergency,DR004,Government,Discharged,79.0,49,1,3.9
+P00778,2025-11-09,General Medicine,Male,78,Outpatient,DR018,Government,Discharged,23.0,16,0,5.0
+P00381,2025-11-09,General Medicine,Female,48,Outpatient,DR013,Private,Discharged,9.0,52,0,5.0
+P00402,2025-11-10,Pediatrics,Female,35,Outpatient,DR020,Self-Pay,Discharged,29.0,42,0,4.6
+P00025,2025-11-10,Neurology,Male,14,Outpatient,DR008,Self-Pay,Discharged,29.0,62,0,5.0
+P00534,2025-11-10,Emergency,Female,30,Outpatient,DR015,Private,Discharged,60.0,41,1,4.9
+P00191,2025-11-11,General Medicine,Male,84,Outpatient,DR020,Government,Admitted,11.0,66,0,4.4
+P00735,2025-11-11,Emergency,Male,57,Outpatient,DR017,Private,Discharged,46.0,10,0,4.5
+P00940,2025-11-11,Pediatrics,Male,85,Inpatient,DR016,Self-Pay,Admitted,60.0,126,1,4.7
+P00380,2025-11-12,Pediatrics,Female,26,Outpatient,DR020,Government,Discharged,29.0,50,0,4.5
+P00695,2025-11-12,Cardiology,Female,55,Inpatient,DR017,Private,Admitted,58.0,148,7,3.8
+P00050,2025-11-12,Neurology,Female,62,Emergency,DR014,Government,Admitted,64.0,80,0,3.8
+P00647,2025-11-13,Cardiology,Female,13,Emergency,DR013,Private,Discharged,45.0,90,0,4.7
+P00661,2025-11-13,Pediatrics,Female,2,Outpatient,DR013,Government,Discharged,47.0,47,0,3.8
+P00846,2025-11-13,Orthopedics,Male,10,Inpatient,DR016,Government,Discharged,41.0,122,6,4.5
+P00323,2025-11-13,Pediatrics,Female,47,Outpatient,DR015,Government,Admitted,5.0,72,0,4.2
+P00952,2025-11-14,Cardiology,Male,13,Emergency,DR002,Self-Pay,Discharged,74.0,10,0,4.7
+P00441,2025-11-14,General Medicine,Female,8,Emergency,DR012,Government,Discharged,65.0,77,0,4.3
+P00184,2025-11-14,Emergency,Female,68,Inpatient,DR004,Government,Discharged,64.0,181,4,4.8
+P00197,2025-11-14,Cardiology,Female,63,Outpatient,DR018,Government,Discharged,36.0,42,0,4.2
+P00434,2025-11-15,Emergency,Female,35,Inpatient,DR016,Private,Discharged,73.0,94,8,4.9
+P00869,2025-11-15,Neurology,Male,26,Outpatient,DR005,Private,Discharged,54.0,93,0,4.7
+P00938,2025-11-16,Emergency,Female,7,Inpatient,DR005,Government,Discharged,58.0,104,8,4.8
+P00995,2025-11-16,Cardiology,Female,39,Inpatient,DR006,Private,Discharged,60.0,153,9,4.4
+P00041,2025-11-16,Orthopedics,Male,78,Emergency,DR010,Private,Discharged,82.0,112,0,3.4
+P00620,2025-11-17,Emergency,Female,13,Outpatient,DR003,Government,Discharged,38.0,74,1,4.2
+P00385,2025-11-17,Pediatrics,Female,75,Outpatient,DR006,Self-Pay,Admitted,36.0,56,1,4.2
+P00391,2025-11-18,Pediatrics,Female,75,Emergency,DR007,Private,Admitted,85.0,41,0,4.2
+P00966,2025-11-18,Pediatrics,Male,85,Emergency,DR010,Private,Discharged,68.0,76,0,3.9
+P00358,2025-11-19,Orthopedics,Female,5,Outpatient,DR020,Private,Admitted,60.0,42,0,3.8
+P00512,2025-11-19,Orthopedics,Female,57,Emergency,DR015,Private,Discharged,59.0,45,0,4.4
+P00351,2025-11-19,Pediatrics,Male,82,Outpatient,DR012,Private,Discharged,36.0,37,0,4.8
+P00984,2025-11-20,General Medicine,Female,48,Inpatient,DR015,Private,Admitted,63.0,107,6,4.0
+P00222,2025-11-20,Orthopedics,Female,41,Outpatient,DR007,Government,Discharged,51.0,18,0,4.3
+P00487,2025-11-21,General Medicine,Female,16,Inpatient,DR012,Government,Discharged,56.0,120,4,4.1
+P00496,2025-11-21,Pediatrics,Female,67,Outpatient,DR013,Private,Discharged,43.0,88,0,4.9
+P00229,2025-11-21,Neurology,Female,85,Outpatient,DR014,Government,Admitted,28.0,10,1,5.0
+P00982,2025-11-22,Pediatrics,Male,17,Outpatient,DR010,Government,Admitted,25.0,82,1,5.0
+P00848,2025-11-22,Neurology,Male,54,Inpatient,DR009,Government,Admitted,43.0,114,2,4.6
+P00238,2025-11-22,Pediatrics,Male,54,Outpatient,DR002,Private,Discharged,49.0,23,0,4.9
+P00408,2025-11-22,General Medicine,Female,81,Outpatient,DR017,Private,Discharged,49.0,13,0,3.9
+P00097,2025-11-23,Pediatrics,Female,4,Outpatient,DR010,Self-Pay,Admitted,5.0,70,0,4.8
+P00623,2025-11-23,Pediatrics,Female,16,Outpatient,DR008,Government,Admitted,30.0,14,1,4.9
+P00154,2025-11-23,Pediatrics,Female,64,Emergency,DR010,Private,Admitted,27.0,45,0,4.9
+P00113,2025-11-24,Emergency,Male,12,Outpatient,DR016,Government,Discharged,68.0,17,0,4.2
+P00046,2025-11-25,Pediatrics,Female,2,Outpatient,DR003,Government,Discharged,38.0,26,0,4.7
+P00811,2025-11-26,General Medicine,Male,29,Emergency,DR016,Private,Discharged,51.0,97,1,4.2
+P00683,2025-11-26,Pediatrics,Male,76,Emergency,DR003,Self-Pay,Discharged,73.0,69,1,4.6
+P00515,2025-11-26,General Medicine,Male,81,Outpatient,DR019,Government,Admitted,31.0,58,0,5.0
+P00011,2025-11-27,General Medicine,Female,51,Inpatient,DR015,Self-Pay,Discharged,34.0,129,3,4.5
+P00951,2025-11-27,Emergency,Female,69,Outpatient,DR004,Private,Admitted,76.0,47,0,4.3
+P00598,2025-11-27,Emergency,Female,17,Outpatient,DR018,Private,Discharged,62.0,69,0,3.4
+P00170,2025-11-27,Pediatrics,Female,33,Emergency,DR002,Self-Pay,Transferred,63.0,63,0,4.7
+P01000,2025-11-29,Neurology,Male,57,Outpatient,DR020,Government,Discharged,33.0,103,0,5.0
+P00970,2025-12-01,General Medicine,Female,16,Outpatient,DR016,Private,Admitted,49.0,25,0,4.3
+P00976,2025-12-01,Cardiology,Male,59,Emergency,DR018,Private,Admitted,67.0,85,0,4.1
+P00796,2025-12-01,General Medicine,Female,68,Outpatient,DR015,Government,Discharged,48.0,18,0,2.7
+P00801,2025-12-01,Orthopedics,Female,62,Outpatient,DR012,Private,Discharged,38.0,10,1,4.3
+P00500,2025-12-02,Emergency,Male,27,Outpatient,DR010,Private,Discharged,42.0,105,0,3.8
+P00827,2025-12-02,Cardiology,Male,44,Inpatient,DR004,Private,Discharged,77.0,124,2,4.1
+P00526,2025-12-03,Neurology,Female,32,Inpatient,DR016,Government,Transferred,88.0,166,6,3.5
+P00872,2025-12-03,Emergency,Female,59,Emergency,DR003,Private,Discharged,92.0,96,0,3.8
+P00292,2025-12-04,General Medicine,Female,31,Outpatient,DR020,Self-Pay,Discharged,50.0,80,0,5.0
+P00794,2025-12-04,Emergency,Male,41,Inpatient,DR019,Private,Admitted,68.0,136,1,4.6
+P00251,2025-12-04,Neurology,Female,79,Outpatient,DR008,Government,Discharged,33.0,94,0,5.0
+P00085,2025-12-04,Emergency,Female,52,Emergency,DR009,Government,Transferred,104.0,65,1,4.8
+P00577,2025-12-05,Emergency,Male,49,Emergency,DR003,Government,Discharged,70.0,69,0,4.3
+P00617,2025-12-05,Orthopedics,Female,71,Inpatient,DR020,Private,Discharged,33.0,137,5,4.6
+P00285,2025-12-06,General Medicine,Female,69,Outpatient,DR003,Self-Pay,Discharged,29.0,45,1,5.0
+P00504,2025-12-06,Cardiology,Male,17,Emergency,DR015,Government,Transferred,71.0,38,0,4.7
+P00056,2025-12-06,General Medicine,Female,64,Outpatient,DR020,Self-Pay,Discharged,10.0,33,0,5.0
+P00813,2025-12-06,Pediatrics,Male,17,Outpatient,DR008,Government,Transferred,34.0,56,0,4.2
+P00168,2025-12-06,Emergency,Male,12,Outpatient,DR016,Self-Pay,Discharged,43.0,48,0,4.1
+P00730,2025-12-07,Pediatrics,Male,28,Outpatient,DR008,Government,Admitted,21.0,48,0,5.0
+P00476,2025-12-07,Neurology,Male,77,Outpatient,DR006,Government,Discharged,29.0,10,0,4.0
+P00784,2025-12-07,Emergency,Male,8,Inpatient,DR013,Self-Pay,Admitted,88.0,147,8,3.6
+P00404,2025-12-08,Pediatrics,Female,73,Emergency,DR001,Self-Pay,Discharged,65.0,70,0,4.7
+P00565,2025-12-08,Emergency,Female,65,Emergency,DR014,Private,Transferred,91.0,74,0,3.9
+P00394,2025-12-08,Orthopedics,Male,51,Outpatient,DR017,Government,Discharged,54.0,15,0,4.8
+P00364,2025-12-08,Orthopedics,Female,54,Emergency,DR011,Government,Admitted,58.0,83,0,4.7
+P00621,2025-12-08,Emergency,Female,31,Outpatient,DR002,Self-Pay,Transferred,47.0,49,1,4.3
+P00734,2025-12-08,General Medicine,Female,71,Outpatient,DR004,Government,Transferred,43.0,85,0,4.8
+P00211,2025-12-09,Neurology,Male,3,Outpatient,DR020,Government,Discharged,36.0,81,0,4.7
+P00099,2025-12-10,General Medicine,Female,76,Outpatient,DR010,Government,Discharged,43.0,12,1,4.7
+P00020,2025-12-10,General Medicine,Male,78,Emergency,DR015,Private,Transferred,81.0,65,0,4.2
+P00029,2025-12-11,Emergency,Female,36,Emergency,DR017,Private,Admitted,89.0,85,1,4.0
+P00096,2025-12-11,Pediatrics,Male,28,Emergency,DR013,Self-Pay,Discharged,59.0,84,1,4.8
+P00261,2025-12-12,Emergency,Female,39,Outpatient,DR008,Government,Discharged,51.0,66,1,4.8
+P00054,2025-12-12,Cardiology,Female,35,Emergency,DR010,Government,Discharged,54.0,61,0,4.6
+P00243,2025-12-12,General Medicine,Male,53,Outpatient,DR014,Private,Discharged,7.0,43,0,4.9
+P00136,2025-12-12,Orthopedics,Male,85,Inpatient,DR011,Private,Admitted,70.0,97,7,3.8
+P00438,2025-12-12,Orthopedics,Female,47,Inpatient,DR011,Private,Discharged,25.0,124,8,4.6
+P00853,2025-12-12,General Medicine,Male,71,Outpatient,DR003,Government,Discharged,16.0,10,0,4.5
+P00636,2025-12-12,General Medicine,Male,18,Outpatient,DR001,Government,Admitted,23.0,49,0,4.8
+P00797,2025-12-13,Neurology,Male,48,Emergency,DR016,Government,Discharged,46.0,30,1,4.5
+P00650,2025-12-14,Emergency,Female,54,Emergency,DR019,Private,Admitted,96.0,88,0,3.3
+P00690,2025-12-14,Orthopedics,Female,37,Outpatient,DR013,Government,Discharged,42.0,53,0,4.9
+P00172,2025-12-14,Cardiology,Female,69,Inpatient,DR008,Private,Admitted,38.0,142,10,4.8
+P00763,2025-12-14,Emergency,Male,54,Emergency,DR004,Government,Discharged,68.0,109,0,4.9
+P00340,2025-12-15,Cardiology,Female,21,Emergency,DR008,Self-Pay,Discharged,70.0,77,0,4.2
+P00239,2025-12-15,Emergency,Female,18,Inpatient,DR005,Self-Pay,Discharged,67.0,160,10,4.6
+P00291,2025-12-15,General Medicine,Female,65,Inpatient,DR013,Government,Admitted,50.0,103,9,4.5
+P00461,2025-12-15,General Medicine,Female,35,Emergency,DR009,Government,Transferred,34.0,67,0,4.4
+P00002,2025-12-15,Emergency,Female,78,Inpatient,DR016,Private,Admitted,77.0,121,2,4.1
+P00953,2025-12-16,Cardiology,Male,58,Emergency,DR006,Private,Discharged,37.0,10,0,4.1
+P00867,2025-12-16,General Medicine,Male,1,Emergency,DR018,Self-Pay,Transferred,64.0,118,0,3.5
+P00421,2025-12-16,Pediatrics,Male,22,Emergency,DR020,Self-Pay,Discharged,74.0,117,1,4.9
+P00950,2025-12-16,General Medicine,Male,41,Emergency,DR011,Government,Discharged,51.0,61,0,3.9
+P00075,2025-12-17,General Medicine,Male,47,Outpatient,DR009,Private,Discharged,42.0,26,0,4.0
+P00744,2025-12-17,Orthopedics,Male,72,Outpatient,DR018,Government,Transferred,44.0,63,0,4.8
+P00140,2025-12-18,Neurology,Male,54,Emergency,DR011,Government,Discharged,102.0,92,1,3.7
+P00834,2025-12-18,Cardiology,Female,43,Emergency,DR019,Private,Discharged,91.0,110,1,5.0
+P00246,2025-12-18,Emergency,Female,32,Inpatient,DR001,Government,Discharged,63.0,145,4,4.9
+P00390,2025-12-20,Emergency,Male,27,Emergency,DR010,Government,Discharged,72.0,79,0,4.2
+P00558,2025-12-21,Orthopedics,Male,6,Inpatient,DR006,Government,Discharged,55.0,115,3,4.2
+P00878,2025-12-21,Neurology,Female,22,Emergency,DR015,Private,Discharged,40.0,71,0,4.8
+P00423,2025-12-21,Pediatrics,Female,67,Outpatient,DR014,Private,Discharged,45.0,40,0,5.0
+P00377,2025-12-21,Cardiology,Male,70,Inpatient,DR003,Government,Admitted,33.0,141,10,4.4
+P00999,2025-12-22,Pediatrics,Male,39,Inpatient,DR017,Private,Discharged,64.0,103,1,4.1
+P00541,2025-12-23,Pediatrics,Male,12,Emergency,DR012,Private,Discharged,74.0,77,1,4.6
+P00699,2025-12-23,Neurology,Female,12,Emergency,DR002,Private,Admitted,51.0,115,0,4.6
+P00482,2025-12-23,Cardiology,Female,16,Inpatient,DR018,Private,Discharged,71.0,94,6,4.2
+P00686,2025-12-24,Cardiology,Female,42,Outpatient,DR019,Private,Discharged,24.0,51,1,5.0
+P00746,2025-12-24,Emergency,Female,28,Inpatient,DR002,Government,Admitted,72.0,98,9,4.1
+P00132,2025-12-25,Orthopedics,Female,8,Emergency,DR010,Government,Discharged,95.0,94,1,4.2
+P00181,2025-12-25,Emergency,Male,82,Outpatient,DR002,Private,Discharged,52.0,67,0,4.8
+P00359,2025-12-26,Orthopedics,Male,17,Outpatient,DR004,Government,Admitted,49.0,19,0,4.2
+P00252,2025-12-26,General Medicine,Male,41,Outpatient,DR013,Self-Pay,Admitted,34.0,39,0,4.3
+P00122,2025-12-26,Emergency,Male,35,Inpatient,DR018,Private,Admitted,100.0,127,7,3.8
+P00063,2025-12-26,Emergency,Female,67,Emergency,DR005,Private,Discharged,81.0,112,0,5.0
+P00014,2025-12-26,Orthopedics,Female,19,Emergency,DR010,Government,Transferred,31.0,92,0,4.8
+P00830,2025-12-26,Neurology,Female,74,Outpatient,DR006,Government,Transferred,33.0,61,0,4.3
+P00648,2025-12-27,Cardiology,Female,57,Emergency,DR012,Private,Discharged,56.0,88,1,4.2
+P00559,2025-12-27,Emergency,Male,69,Emergency,DR015,Self-Pay,Discharged,78.0,54,1,4.3
+P00899,2025-12-29,Emergency,Male,23,Outpatient,DR013,Government,Discharged,71.0,10,0,4.5
+P00631,2025-12-30,Neurology,Male,34,Emergency,DR014,Private,Admitted,67.0,70,0,4.7
+P00038,2025-12-30,General Medicine,Male,75,Inpatient,DR005,Private,Discharged,50.0,105,2,4.2
+P00941,2025-12-31,Neurology,Female,61,Outpatient,DR019,Private,Discharged,55.0,10,0,5.0
+P00720,2025-12-31,Pediatrics,Female,44,Outpatient,DR011,Private,Discharged,37.0,53,1,4.2
+P00619,2025-12-31,Emergency,Male,82,Emergency,DR005,Private,Admitted,56.0,82,0,4.5
+P00313,2025-12-31,Pediatrics,Male,37,Emergency,DR019,Government,Discharged,54.0,82,0,3.9
+P00420,2025-12-31,Emergency,Male,80,Emergency,DR018,Government,Discharged,84.0,58,1,4.7
+P00890,2025-12-31,General Medicine,Female,71,Outpatient,DR015,Private,Discharged,47.0,73,0,4.4
